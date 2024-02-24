@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import os
 from nltk import word_tokenize
+import nltk
+nltk.download('punkt')
 
 from sklearn.metrics import f1_score
 from sklearn.metrics import accuracy_score
@@ -9,6 +11,7 @@ from sklearn.metrics import accuracy_score
 def decode(x):
     list_words = word_tokenize(x)
     label_word = list_words[0].lower()
+    if label_word == "label": label_word = list_words[2].lower()
     if "positive" in label_word:
         return 0
     elif "negative" in label_word:
@@ -25,7 +28,9 @@ missing_perc_list = []
 
 files = os.listdir('../data/llm_prompt_outputs')
 
-files_xls = [f for f in files if 'falcon' in f]
+files_xls = ['gpt4_FPB-sentiment-analysis-allagree_5768_17_02_2024_3.csv', 
+             'gpt4_FPB-sentiment-analysis-allagree_78516_17_02_2024_17.csv',
+             'gpt4_FPB-sentiment-analysis-allagree_944601_17_02_2024_5.csv']
 
 for file in files_xls:
     df = pd.read_csv('../data/llm_prompt_outputs/' + file)

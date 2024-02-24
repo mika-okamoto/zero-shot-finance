@@ -28,7 +28,9 @@ missing_perc_list = []
 
 files = os.listdir('../data/llm_prompt_outputs')
 
-files_xls = [f for f in files if 'palm' in f]
+files_xls = ['chatgpt_lab-manual-split-combine_5768_24_02_2024_7.csv', 
+             'chatgpt_lab-manual-split-combine_78516_24_02_2024_5.csv',
+             'chatgpt_lab-manual-split-combine_944601_24_02_2024_1.csv']
 
 for file in files_xls:
     df = pd.read_csv('../data/llm_prompt_outputs/' + file)

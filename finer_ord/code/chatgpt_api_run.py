@@ -3,9 +3,6 @@ import pandas as pd
 from time import sleep, time
 from datetime import date
 today = date.today()
-
-openai.api_key = ""
-
  
 start_t = time()
 # load training data
@@ -14,8 +11,6 @@ data_df = pd.read_csv(test_data_path)
 
 grouped_df = data_df.groupby(['doc_idx', 'sent_idx']).agg({'gold_label':lambda x: list(x), 'gold_token':lambda x: list(x)}).reset_index()
 grouped_df.columns = ['doc_idx', 'sent_idx', 'gold_label', 'gold_token']
-
-
 
 output_list = []
 for index in range(grouped_df.shape[0]):
@@ -35,19 +30,19 @@ for index in range(grouped_df.shape[0]):
                 temperature=0.0,
                 max_tokens=1000
         )
+        answer = chat_completion.choices[0].message.content
     except Exception as e:
         print(e)
-        index = index - 1
-        sleep(10.0)
-
-    answer = chat_completion.choices[0].message.content
+        # index = index - 1
+        # sleep(10.0)
+        answer = "Unsure. Error."
 
     output_list.append([label_list, sen, answer])
     
-    sleep(1.0) 
+    # sleep(1.0)
+    print(index) 
 
+    results = pd.DataFrame(output_list, columns=["true_label", "original_sent", "text_output"])
 
-results = pd.DataFrame(output_list, columns=["true_label", "original_sent", "text_output"])
-
-time_taken = int((time() - start_t)/60.0)
-results.to_pickle(f'../data/llm_prompt_outputs/chatgpt_{today.strftime("%d_%m_%Y")}_{time_taken}')
+    time_taken = int((time() - start_t)/60.0)
+    results.to_pickle(f'../data/llm_prompt_outputs/chatgpt_{today.strftime("%d_%m_%Y")}_{time_taken}')

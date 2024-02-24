@@ -4,9 +4,6 @@ from time import sleep, time
 from datetime import date
 today = date.today()
 
-openai.api_key = ""
-
-
 for seed in [5768, 78516, 944601]:  
     for data_category in ["lab-manual-split-combine"]:
         start_t = time()
@@ -33,17 +30,18 @@ for seed in [5768, 78516, 944601]:
                         temperature=0.0,
                         max_tokens=1000
                 )
+                answer = chat_completion.choices[0].message.content
             except Exception as e:
                 print(e)
-                i = i - 1
-                sleep(10.0)
-
-            answer = chat_completion.choices[0].message.content
+                # i = i - 1
+                answer = "Unsure. Error."
+                # sleep(10.0)
             
             output_list.append([labels[i], sen, answer])
-            sleep(1.0) 
+            # sleep(1.0) 
+            print(i)
 
-        results = pd.DataFrame(output_list, columns=["true_label", "original_sent", "text_output"])
+            results = pd.DataFrame(output_list, columns=["true_label", "original_sent", "text_output"])
 
-        time_taken = int((time() - start_t)/60.0)
-        results.to_csv(f'../data/llm_prompt_outputs/chatgpt_{data_category}_{seed}_{today.strftime("%d_%m_%Y")}_{time_taken}.csv', index=False)
+            time_taken = int((time() - start_t)/60.0)
+            results.to_csv(f'../data/llm_prompt_outputs/chatgpt_{data_category}_{seed}_{today.strftime("%d_%m_%Y")}_{time_taken}_2.csv', index=False)
