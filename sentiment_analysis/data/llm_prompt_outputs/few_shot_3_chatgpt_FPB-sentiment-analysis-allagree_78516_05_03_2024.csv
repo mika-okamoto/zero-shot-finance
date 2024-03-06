@@ -1,0 +1,907 @@
+true_label,original_sent,text_output
+0,"in Q1 '10 19 April 2010 - Finnish forest machinery and equipment maker Ponsse Oyj HEL : PON1V said today that it expects to swing to a net profit of some EUR6 .3 m in the first quarter of 2010 , from an EUR9 .6 m loss a year earlier .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an expected swing to a net profit in the first quarter of 2010, compared to a loss in the previous year."
+2,"Currently , 95 % of Trainers House 's revenues are attributed to the Finnish market .","NEUTRAL
+The sentence provides a factual statement without expressing any positive or negative sentiment."
+2,"The new apartment block is going up very close to the city center , explained Chairman of the Board of AS YIT Ehitus Priit Sauk .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes the construction of a new apartment block close to the city center, which suggests growth and development."
+0,The actions are expected to deliver annual cost savings of some EUR15-20m .,"Label: POSITIVE
+Explanation: The sentence indicates that the actions will result in annual cost savings, which is generally viewed as a positive outcome in business contexts."
+2,The net sales of the Power Plants business were EUR 710.3 million in 2005 .,"POSITIVE
+The sentence indicates a positive sentiment as it highlights a specific figure for net sales, which is a strong indicator of financial success."
+2,"Target company : Tieto Corporation , Business Identity Code : 0101138-5 Date of change in holding : 22 January 2010 Portion of the shares and votes : The current group holding of OP-Pohjola Group Central Cooperative ( OPK ) is 2982 587 shares , which represents 4.14 % of the shares and voting rights .","Label: NEUTRAL
+Explanation: The sentence provides factual information about a change in holding of shares in Tieto Corporation without expressing any positive or negative sentiment."
+2,Runway Visual Range is a calculated assessment of the distance that a pilot can see down a runway .,"Label: NEUTRAL
+Explanation: The sentence provides a factual description of what Runway Visual Range is without expressing any positive or negative sentiment."
+2,The plant will collect raw material from the Baltic Sea region .,"NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+1,"At 1411 CET , ArcelorMittal had lost 7.26 % to EUR 17.38 on Euronext Paris , coming at the lead of the blue-chip fallers .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in the stock price of ArcelorMittal, positioning it as one of the top decliners among blue-chip stocks, reflecting a negative sentiment."
+2,"Under a preliminary estimation , the technology park will measure about 50,000 square meters .","Label: NEUTRAL
+Explanation: The sentence simply provides information about the size of the technology park without expressing any positive or negative sentiment."
+2,The dividends payable annually shall be deducted from the share subscription price .,"Label: NEUTRAL
+Explanation: This sentence is providing a factual statement about the process of deducting dividends from the share subscription price, without expressing any positive or negative sentiment."
+2,"Honkarakenne also decided yesterday to sell 88,500 of its B series shares to key staff members for EUR2 .9 per share .","POSITIVE
+The sentence indicates a positive action of selling shares to key staff members, which can be seen as a gesture of trust and investment in the employees."
+0,"Pre-tax profit totaled EUR 397.4 mn , up from EUR 164.7 mn .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in pre-tax profit from EUR 164.7 million to EUR 397.4 million, which is a positive financial outcome."
+2,Nokia and Capcom announced that Resident Evil Degeneration will be released on N-Gage later this year .,"Label: POSITIVE
+Explanation: The sentence is conveying a positive sentiment as it announces the release of a popular game, Resident Evil Degeneration, on N-Gage later this year, indicating a new and exciting opportunity for gamers."
+2,"The port facilities ' throughput is 250,000 TEUs and 7.5 mln tons of general cargo .","POSITIVE
+The sentence highlights positive information about the port facilities' throughput and general cargo volume, indicating growth and efficiency."
+0,Ruukki 's order book at the end of 2010 was 30 % up year-on-year and 10 % up quarter-on-quarter .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in Ruukki's order book by 30% year-on-year and 10% quarter-on-quarter, showing growth and success in the company's business."
+1,Sales by Seppala diminished by 6 per cent .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in sales, which is typically associated with a negative sentiment in business contexts."
+2,The estimated annual value of the frame agreement is about EUR 50mn .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about the estimated annual value of the frame agreement without expressing any positive or negative sentiment."
+2,Subject-matter of the invention furthermore is the use of the cyclone for separating partly molten particles . '',"NEUTRAL
+The sentence is providing a factual statement about the subject-matter of the invention without expressing any positive or negative sentiment."
+2,He wore a black beanie-type cap and a black jacket .,"Label: NEUTRAL
+Explanation: This sentence simply describes the clothing items worn by the person and does not convey any positive or negative sentiment."
+1,The real estate company posted a net loss of +ó  x201a -¼ 59.3 million +ó  x201a -¼ 0.21 per share compared with a net profit of +ó  x201a -¼ 31 million +ó  x201a -¼ 0.11 per share for the corresponding quarter of 2007 .,"Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as the real estate company posted a net loss of 59.3 million, which is a decrease compared to the net profit of 31 million in the corresponding quarter of 2007."
+2,"Retail chain Suomen L+ñhikauppa was given the index 5.8 , airline SAS 5.8 , TeliaSonera 's broadband 6.1 , German retail chain Lidl 6.1 , Tele Finland 's mobile subscriptions 6.1 , Tallink shipping line 6.3 , and power company Helsinki Energy 6.3 .","Label: NEUTRAL
+Explanation: The sentence provides a list of various companies and their respective index ratings, without expressing any positive or negative sentiment."
+2,Changes to the as-built models from the design were communicated to the subcontractors to accommodate them into the steel and GRC glass reinforced concrete fabrication process .,"Label: POSITIVE
+Explanation: The sentence describes effective communication and coordination between different parties in a construction project, which is generally seen as a positive aspect in project management."
+1,"( ADP News ) - Jan 22 , 2009 - Finnish mobile phones maker Nokia Oyj ( OMX : NOK1V ) said today its operating profit decreased to EUR 5 billion ( USD 6.5 bn ) for 2008 from EUR 8 billion for 2007 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in operating profit for Nokia Oyj from EUR 8 billion in 2007 to EUR 5 billion in 2008, which is a negative financial outcome."
+0,Operating profit rose to EUR 5mn from EUR 2.8 mn in the fourth quarter of 2008 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as the operating profit increased from EUR 2.8 mn to EUR 5 mn, showing growth and improvement in financial performance."
+2,"As part of the transaction , the +ä+ñnekoski paper mill remained in M-real 's ownership and continued Galerie Art production for Sappi under a long-term contract .","Label: POSITIVE
+Explanation: The sentence describes a business transaction where the +ä+ñnekoski paper mill remained in M-real's ownership and continued production for Sappi under a long-term contract, indicating a positive business relationship and continuity in production."
+0,"Neste oil 's board proposed 1.00 eur dividend for the full-year 2007 , compared with 0.90 eur a year ago .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as Neste Oil's board proposed an increase in dividend from 0.90 eur to 1.00 eur for the full-year 2007."
+2,"According to the company , a decision in the issue will be made in the summer of 2010 , at the earliest , and in the summer of 2011 , at the latest .","NEUTRAL
+The sentence is providing a timeline for when a decision will be made, without expressing any positive or negative sentiment."
+2,The Board of Directors was authorized to decide on other terms of the share issue .,"NEUTRAL
+The sentence is providing neutral information about the authorization given to the Board of Directors to decide on other terms of the share issue."
+2,"The gross area of eight houses will be 12,167 m2 .","Label: NEUTRAL
+Explanation: This sentence simply states a factual piece of information without expressing any positive or negative sentiment."
+0,Merrill Lynch analyst Campbell Morgan upgraded his recommendation on PaperlinX from `` neutral '' to `` buy '' in May .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as the analyst upgraded the recommendation on PaperlinX from ""neutral"" to ""buy"", suggesting optimism about the company's performance."
+2,"The segments through which the company operates are Frozen Food business , Seafoods , Vegetable Oil business , Grain Trading and Other business operations .","NEUTRAL
+The sentence provides a neutral description of the different segments through which the company operates without expressing any positive or negative sentiment."
+0,"Talentum expects that the net sales of its core business will increase in 2008 , compared to 2007 .","Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment as Talentum expects an increase in net sales for its core business in the upcoming year."
+2,"The EBRD is using its own funds to provide a 21.6 mln A loan while the B portion of 10 mln Euros has been syndicated to two Finnish commercial banks , Nordea Bank Finland Plc 7.7 mln Euros and Pohjola Bank Plc 2.3 mln Euros .","Label: POSITIVE
+Explanation: The sentence describes a financial transaction where the European Bank for Reconstruction and Development (EBRD) is providing funds for a loan, which indicates a positive financial activity."
+0,Net sales grew in the period to  x20ac 402 million $ 585US million from  x20ac 401 million in 2006 .,"Label: POSITIVE
+Explanation: The sentence indicates a growth in net sales, which is a positive indicator for the company."
+2,Cargotec will also move Hallberg-Ivarsson 's service and installation business under the same roof with its service center for Kalmar and MacGregor solutions in Gothenburg .,"Label: NEUTRAL
+Explanation: The sentence provides neutral information about Cargotec's business decision to consolidate service and installation business under the same roof in Gothenburg."
+2,"Paychex has more than 100 offices serving approximately 554,000 payroll clients nationwide as of May 31 , 2009 .","Label: POSITIVE
+Explanation: The sentence provides a positive sentiment by highlighting the large number of offices and clients served by Paychex, indicating growth and success in their business operations."
+0,Finnish metal components supplier Componenta Oyj said its net profit went up to 3.5 mln euro $ 4.5 mln in 2006 from 2.2 mln euro $ 2.8 mln in 2005 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in net profit from 2005 to 2006 for Finnish metal components supplier Componenta Oyj."
+2,Vacon recently announced plans to build its North American headquarters at 5 Business Park in Chambersburg .,"Label: POSITIVE
+Explanation: The sentence indicates a positive development for Vacon as they are expanding and building their North American headquarters, which suggests growth and investment in the region."
+0,"Both operating profit and turnover for the six-month period increased , respectively , from EUR17 .6 m and EUR1149 .9 m , as compared to the corresponding period in 2007 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as both operating profit and turnover increased during the six-month period compared to the corresponding period in 2007."
+0,"9 September 2010 - Finnish stationery and gift retailer Tiimari HEL : TII1V said today its net sales rose by 2 % year-on-year to EUR5 .7 m in August 2010 , driven by growth in Finland , while demand in the Baltics remained weak .","POSITIVE
+The sentence expresses a positive sentiment as it highlights the increase in net sales for Tiimari HEL, driven by growth in Finland."
+0,The Department Store Division reported an increase in sales of 4 per cent .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it reports an increase in sales, specifically a 4 percent growth."
+2,Mr. Koistinen joins from Nokia Siemens Networks where he has held various senior sales management and business development positions since 1997 .,"Label: POSITIVE
+Explanation: The sentence describes Mr. Koistinen's experience in senior sales management and business development positions at Nokia Siemens Networks since 1997, indicating a positive career progression and expertise in the field."
+2,"Ruukki 's delivery includes steel structures , including installation , for Krakeroy bascule bridge and steel piles for the bridge foundations .","Label: POSITIVE
+Explanation: The sentence describes a delivery of steel structures for a bridge project, indicating a positive business transaction."
+2,"Aug. 17 , 2010 ( Curbed delivered by Newstex ) -- And now , the latest from Racked , covering shopping and retail from the sidewalks up .","NEUTRAL
+The sentence is neutral as it simply provides information about the latest news from Racked, covering shopping and retail."
+2,The order is included in Metso 's fourth quarter 2007 order backlog .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact without expressing any positive or negative sentiment."
+1,Cash flow from operations in January-December 2008 was a negative EUR 18.1 mn compared to EUR 39.0 mn in the corresponding period in 2007 .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in cash flow from operations, which is considered a negative financial outcome."
+2,"Erkki Jarvinen , President of Rautakirja and the head of the Sanoma Trade division , will leave his current tasks in spring 2009 for a similar position outside the Sanoma Group .","NEGATIVE
+The departure of Erkki Jarvinen from his current position indicates a negative sentiment as he is leaving his role within the Sanoma Group."
+2,"China Unicom , NYSE : CHU , HKSE : 0762 , and SHSE : 600050 , the second largest mobile carrier in the country .","NEUTRAL
+The sentence provides factual information about China Unicom being the second largest mobile carrier in the country without expressing any positive or negative sentiment."
+0,"Elisa said mobile subscriptions grew 7 percent during 2007 , mainly because of customers adopting so-called third generation mobile technology .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the growth in mobile subscriptions, attributing it to customers adopting advanced technology."
+2,"Finland 's Technopolis is planning to bring the first section of a technopark on stream in St. Petersburg at the end of 2008 , Kari Mikkonen , vice president of Technopolis , told reporters in Helsinki .","POSITIVE
+The sentence expresses a positive sentiment as it talks about Technopolis planning to bring the first section of a technopark on stream in St. Petersburg, indicating growth and expansion in their business."
+0,Finnish Bank of +àland 's consolidated net operating profit increased from EUR 4.8 mn in the first quarter of 2005 to EUR 6.4 mn in the first quarter of 2006 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes an increase in the Finnish Bank of Åland's consolidated net operating profit from EUR 4.8 mn in the first quarter of 2005 to EUR 6.4 mn in the first quarter of 2006."
+0,"The price of raw material aluminium went up at the end of 2005 , but the company considers its outlook for 2006 favourable .","Label: NEUTRAL
+Explanation: The sentence provides a mix of information - the increase in the price of raw material aluminium is negative, but the company's positive outlook for 2006 balances it out, resulting in a neutral sentiment overall."
+2,"In future , the plant will focus on the production of flange profiles for wind farm towers .","POSITIVE
+The sentence indicates a future focus on a specific production area, suggesting growth and potential opportunities in the wind energy sector."
+2,The project also implies an underground parking lot for 56 vehicles .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about the project without expressing any positive or negative sentiment."
+0,Finnish Cargotec 's Kalmar has received a significant order from the US Department of Defense .,"Label: POSITIVE
+Explanation: The sentence indicates that Finnish Cargotec's Kalmar has received a significant order from the US Department of Defense, which is a positive development for the company."
+2,"A total of 1,800,000 stock options were issued in the 2003 stock option scheme .","Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+0,Net sales increased to EUR655m in April to June 2010 from EUR438m a year earlier .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in net sales from the previous year, showing growth and improvement in financial performance."
+2,"The record date for dividend distribution is March 14 , 2008 .","NEUTRAL
+The sentence is providing factual information about the record date for dividend distribution without expressing any positive or negative sentiment."
+0,Combining this deep domain expertise with our Application Service Management ASM and outsourcing service offerings has now proved to be a winning combination .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment by stating that combining deep domain expertise with their service offerings has proven to be successful."
+2,Odell has not contacted the State of Finland in this issue .,"Label: NEGATIVE
+Explanation: The sentence indicates a lack of communication or effort from Odell towards resolving the issue with the State of Finland, which can be seen as negative."
+2,The total project duration is three years and it is valued at some EUR11 .5 m.,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about the project duration and value without expressing any positive or negative sentiment."
+0,"Finnish Metso Paper has been awarded a contract for the rebuild of Sabah Forest Industries ' ( SFI ) pulp mill in Sabah , Malaysia .","Label: POSITIVE
+Explanation: The sentence describes an achievement or success for Finnish Metso Paper, indicating a positive sentiment."
+0,28 October 2010 - Finnish wood products technology supplier Raute Oyj HEL : RUTAV said today it swung to a net profit of EUR3m for the first nine months of 2010 versus a net loss of EUR5 .2 m for the same period a year earlier .,"POSITIVE
+The sentence indicates a positive sentiment as it mentions that the company swung to a net profit of EUR3m for the first nine months of 2010, which is an improvement from a net loss of EUR5.2m for the same period a year earlier."
+2,The value of the orders is over EUR 25mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a high value of orders, which is typically seen as a good sign for a business."
+2,The duration of the contract is 37 months .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact about the duration of the contract without expressing any positive or negative sentiment."
+0,Olvi has posted a strong set of figures for the first six months of this year .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment by describing Olvi's financial performance as strong for the first six months of the year."
+2,UPM-Kymmene said its has ` not indicated any interest in any domestic consolidations ' .,"Label: NEUTRAL
+Explanation: The sentence does not express a clear positive or negative sentiment, indicating a neutral stance from UPM-Kymmene regarding domestic consolidations."
+0,"EBIT excluding non-recurring items , totalled EUR 67.8 mn , up from EUR 38.1 mn .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in EBIT (Earnings Before Interest and Taxes) excluding non-recurring items from EUR 38.1 mn to EUR 67.8 mn."
+1,"Operating profit margin was 8.3 % , compared to 11.8 % a year earlier .","NEGATIVE
+The decrease in operating profit margin from 11.8% to 8.3% indicates a negative sentiment as it shows a decline in profitability."
+2,The phones are targeted at first time users in growth markets .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the target market for the phones, which are first-time users in growth markets, suggesting potential for sales growth."
+1,"Operating profit , excluding non-recurring items , totalled EUR 1.0 mn , down from EUR 1.6 mn .","Label: NEGATIVE
+Explanation: The decrease in operating profit from EUR 1.6 mn to EUR 1.0 mn indicates a negative sentiment as it signifies a decline in financial performance."
+2,"The major part of the deliveries include different AC and CXE amplifier solutions and products by Belgian DINH Telecom , a broadband solutions company acquired by Teleste in the spring of 2007 .","Label: POSITIVE
+Explanation: The sentence describes the delivery of amplifier solutions and products by a company acquired by Teleste, indicating growth and expansion in their product offerings."
+0,Operating result including non-recurring items rose to EUR 146mn from a loss of EUR 267mn in 2009 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant improvement in the operating result, shifting from a loss in 2009 to a positive value of EUR 146mn."
+2,com and possibly also through photo-msn .,"NEUTRAL
+The sentence does not convey any specific sentiment, it is simply providing information about potential ways to access something."
+0,"comparable operating profit totaled EUR 854mn , up from EUR 730mn in 2004 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in comparable operating profit from EUR 730mn in 2004 to EUR 854mn."
+0,"Equity ratio was 60.9 % compared to 54.2 % In the third quarter of 2007 , net sales of the Frozen Foods Business totaled EUR 11.0 , up by about 5 % from the third quarter of 2006 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment by highlighting an increase in the equity ratio and net sales of the Frozen Foods Business, showing growth and financial improvement."
+2,"Glaston 's own glass processing unit , Tamglass Glass Processing , is a manufacturer of high quality safety glass products operating in Finland .","Label: POSITIVE
+Explanation: The sentence describes Glaston's glass processing unit as a manufacturer of high-quality safety glass products, which conveys a positive sentiment."
+1,"Commission income decreased to EUR 3.8 mn , compared to EUR 4.6 mn in the third quarter of 2007 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in commission income, which is a negative financial outcome."
+1,"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri","Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions that the net loss of the company widened in the first quarter of 2009 compared to the same period in the previous year."
+0,"BasWare 's CEO Ilkka Sihvo comments in conjunction with the Interim Report : `` As a whole , BasWare succeeded well in the second quarter of 2007 .","Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment towards BasWare's performance in the second quarter of 2007, indicating success."
+2,Shuweihat 2 got under way in July 2008 when the project was awarded to desalination and power contractors .,"NEUTRAL
+The sentence is providing factual information about the start of a project without expressing any positive or negative sentiment."
+0,"At the same time profit of the company increased by 10 % in H1 and reached Ls 79,000 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an increase in profit by 10% in the first half of the year, reaching Ls 79,000."
+2,"The company generates net sales of about 600 mln euro $ 775.5 mln annually and employs 6,000 .","Label: POSITIVE
+Explanation: The sentence provides positive information about the company's financial performance and employment numbers."
+0,`` We are pleased with the efforts of both negotiating teams and look forward to a productive four years ahead . '',"Label: POSITIVE
+Explanation: The sentence expresses satisfaction and optimism about the efforts of the negotiating teams and the future, indicating a positive sentiment."
+2,The EUR 0.7 million non-recurring expenses have been recorded for the third quarter .,"Label: NEGATIVE
+Explanation: The mention of non-recurring expenses typically indicates a negative impact on the financial performance of the company."
+0,"Earnings per share for the quarter were also higher year-on-year at 0.33 eur versus 0.27 , and above market expectations of 0.28 eur .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights that earnings per share for the quarter were higher year-on-year and above market expectations."
+1,"Frost sold shares for $ 19 million at $ 6.06-7 .12 per share , compared with Friday 's high of $ 11.33 and low of $ 10.14 .","Label: NEGATIVE
+Explanation: The sentence indicates that Frost sold shares at a lower price compared to Friday's high and low, suggesting a decrease in value and potentially resulting in a loss."
+0,"Revenue in July to September grew 14 percent to ( EURO ) 467 million from a year earlier , the company said Thursday .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a growth in revenue from the previous year."
+0,The bank sees a potential for Getinge share to rise .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment as it indicates that the bank sees a potential for the Getinge share to rise, suggesting a favorable outlook for the company."
+0,"Operating profit totalled EUR 0.4 mn , up from an operating loss of EUR 0.8 mn year-on-year .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it shows an improvement in operating profit from a loss to a positive value year-on-year."
+0,Passenger-related revenue rose by 5.1 % to EUR 460.8 mn from EUR 438.5 mn in 2009 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in passenger-related revenue, showing growth in the company's earnings."
+0,"Finnish airline Finnair has won a deal with the UK public sector to be the official airline for flights from London Heathrow to Osaka in Japan , as well as flights between Manchester in the UK and Helsinki in Finland .","POSITIVE
+The sentence expresses a positive sentiment as it highlights Finnair winning a deal with the UK public sector to be the official airline for specific routes, indicating a successful business partnership."
+2,"Patrick Jeambar will also continue being responsible for Innovation and Health , safety and environment HSEA functions of Ahlstrom Corporation .","NEUTRAL
+The sentence is neutral as it simply states a continuation of responsibilities for Patrick Jeambar within Ahlstrom Corporation without expressing any positive or negative sentiment."
+2,"For 2009 , net profit was EUR3m and the company paid a dividend of EUR1 .30 apiece .","POSITIVE
+The sentence indicates a positive sentiment as it mentions a net profit of EUR3m and the payment of a dividend of EUR1.30 apiece, which are both favorable financial outcomes for the company."
+0,"For the current year , Raute expects its net sales to increase and the operating result -- to be positive .","Label: POSITIVE
+Explanation: The sentence expresses positive sentiment by stating that Raute expects an increase in net sales and a positive operating result for the current year."
+0,"The total delivery volume of paper businesses in 2010 was 1,155,000 tonnes , up from 1,132,000 tonnes in 2009 .","Label: POSITIVE
+Explanation: The sentence indicates an increase in the total delivery volume of paper businesses from 2009 to 2010, which is a positive sign of growth."
+2,No changes in media activity were seen in October compared with September .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+1,"In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in profit before taxes from EUR 26.8 mn in Q2 of 2008 to EUR 13.6 mn in Q2 of 2009, which reflects a negative sentiment."
+2,Amanda Capital has investments in 22 private equity funds and in over 200 unquoted companies mainly in Europe .,"Label: POSITIVE
+Explanation: The sentence highlights the diverse and extensive investment portfolio of Amanda Capital, indicating a positive sentiment towards the company's success and growth in the private equity sector."
+2,"After the restructuring , UPM 's average paper machine capacity in Europe will be 320,000 tons ( 350,000 short tons ) in coated magazine paper and 420,000 tons ( 460,000 short tons ) in coated fine paper .","NEUTRAL
+The sentence provides factual information about UPM's paper machine capacity after restructuring without expressing any positive or negative sentiment."
+2,Grounds for the notification : Tiimari Plc 12/30/2010 issued Capital Convertible Loan allocation decision by the Board on 01/31/2011 .,"NEUTRAL
+The sentence is providing factual information about a financial decision made by the Board of Tiimari Plc, without expressing any positive or negative sentiment."
+2,Nokia Messaging 1.1 enables customers to receive e-mails from up to 10 e-mail accounts on their mobile phone supporting all POP or IMAP e-mail services .,"Label: POSITIVE
+Explanation: The sentence highlights a positive feature of Nokia Messaging 1.1, which is enabling customers to receive e-mails from multiple e-mail accounts on their mobile phone, supporting various e-mail services."
+0,"( ADP News ) - Nov 5 , 2008 - Finnish electronic measurement products and solutions maker Vaisala Oyj ( OMX : VAIAS ) said today that its net profit rose to EUR 18 million ( USD 23.1 m ) for the first nine months of 2008 from EUR 1","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in net profit for Vaisala Oyj, which is a positive financial outcome."
+0,"`` We 're delighted with the move '' says Morna Cowie , co-owner , above , `` it 's double the size of our current shop and has a lovely feel to it . ''","Label: POSITIVE
+Explanation: The sentence expresses delight and satisfaction with the move to a new, larger shop, indicating a positive sentiment."
+0,Viking Line manages well with its current ferries .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment by stating that Viking Line is managing well with its current ferries."
+2,More than 80 special events in the three counties during four months were hosted by the library system and its nine branch libraries .,"Label: POSITIVE
+Explanation: The sentence describes a large number of special events hosted by the library system, indicating a proactive and engaging approach, which is generally viewed positively."
+2,The mill is concentrating on getting the supercalendered line running satisfactorily before restarting its older newsprint line .,"Label: NEUTRAL
+Explanation: The sentence does not express a clear positive or negative sentiment, it simply states a fact about the mill's focus on getting the supercalendered line running satisfactorily before restarting its older newsprint line."
+2,"Viking will pay EUR 130 million for the new ship , which will be completed in January 2008 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes a business transaction where Viking will pay EUR 130 million for a new ship to be completed in January 2008."
+2,"Our customers include companies in the energy and process industry sectors , in particular .","NEUTRAL
+The sentence does not express any strong positive or negative sentiment, simply stating a fact about the types of companies the customers belong to."
+1,"YIT lodged counter claims against Neste Oil totaling some EUR25m , primarily based on work carried out under the contract and additional costs incurred due to prolongation of the project .","Label: NEGATIVE
+Explanation: The sentence indicates a dispute or disagreement between YIT and Neste Oil, resulting in counter claims totaling EUR25m, which suggests a negative sentiment."
+2,"The Group owns and operates a fleet of more than 800dwt , while container capacity is 17,000 TEUs , and manages a diversified fleet of its own railway rolling stock of over 17,000 units .","Label: POSITIVE
+Explanation: The sentence provides information about the Group owning and operating a large fleet, which indicates growth and success in their operations."
+1,"The EU Commission said earlier it had fined ThyssenKrupp , United Technologies Corp 's Otis , Schindler AG and Kone Oyj a total of 992.3 mln eur for alleged cartel activity in the lift market going back twelve years .","Label: NEGATIVE
+Explanation: The sentence describes a negative event of the EU Commission fining multiple companies for alleged cartel activity, indicating a negative sentiment."
+2,The company continued the development of a fully human antibody in its VAP-1 antibody program .,"Label: POSITIVE
+Explanation: The sentence describes a positive development in the company's antibody program, indicating progress and advancement in their research and development efforts."
+2,Eriikka S+Âderstr+Âm has previously held several positions in finance and control at Nokia Networks including acting as the Business Group Controller and having the corporate controller position at Nokia Siemens Networks .,"Label: NEUTRAL
+Explanation: The sentence provides neutral information about Eriikka Söderström's previous positions at Nokia Networks and Nokia Siemens Networks without expressing any positive or negative sentiment."
+2,The financial details of the acquisition were not disclosed .,"Label: NEUTRAL
+Explanation: The sentence does not convey any positive or negative sentiment, it simply states that the financial details of the acquisition were not disclosed."
+1,"During the strike , Finnair estimates to incur a net loss of between EUR2m and EUR2 .5 m per day .","NEGATIVE
+The sentence expresses a negative sentiment as it mentions the financial losses Finnair is expected to incur during the strike."
+2,He is a Chartered Accountant in British Columbia and Alberta as well as a Certified Public Accountant in Washington State .,"Label: NEUTRAL
+Explanation: The sentence provides factual information about the individual's professional qualifications without expressing any positive or negative sentiment."
+0,Construction volumes meanwhile grow at a rate of 10-15 percent annually .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the growth in construction volumes at a rate of 10-15 percent annually, which is a sign of progress and expansion in the construction industry."
+0,"The company 's net profit amounted to EE 55.5 mn , which was 36 % more than in 2004 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a 36% increase in the company's net profit compared to the previous year."
+2,"Complete name of shareholder : Otto Henrik Bernhard Nyberg For further information , please contact Maija-Liisa Friman , CEO , tel. +358 9 7597 0711 .","NEUTRAL
+The sentence provides factual information without expressing any positive or negative sentiment."
+2,"At the beginning of the subscription period on May 2 , 2006 the share subscription price under B option right is EUR 10.22 per share .","Label: NEUTRAL
+Explanation: This sentence simply states a fact about the share subscription price without expressing any positive or negative sentiment."
+2,"Indigo and Somoncom serve 377,000 subscribers and had a market share of approximately 27 % as of May 2007 .","Label: POSITIVE
+Explanation: The sentence provides positive information about the number of subscribers served and the market share held by Indigo and Somoncom as of May 2007."
+2,Rapala aims to move the distribution unit Ragot from Loudeac in Bretagne and the distribution unit Waterqueen and the fishing line supplier Tortue from Saint Marcel in Central France to Morvillars .,"Label: NEUTRAL
+Explanation: The sentence provides information about a business decision to move distribution units and suppliers to a different location, without expressing any positive or negative sentiment."
+2,"Elcoteq SE Stock Exchange Announcement February 4 , 2009 at 10.00 am ( EET ) Elcoteq will publish its financial statements bulletin 2008 on Wednesday , February 11 , at 9.00 am ( EET ) .","NEUTRAL
+The sentence is neutral as it simply provides information about the publication of financial statements bulletin without expressing any positive or negative sentiment."
+2,"The total size of the complex is around 25,000 m2 and the project will be constructed in stages .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the size of the complex and the construction process without expressing any positive or negative sentiment."
+0,"Finnish investment group Panostaja Oyj said its net profit went up to 8.6 mln euro $ 11.4 mln in fiscal 2005-06 , ended October 31 , 2006 , from 2.8 mln euro $ 3.7 mln in the same period of fiscal 2004-05 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in net profit from 2.8 mln euro to 8.6 mln euro, showing financial growth for the company."
+0,Operating profit improved to EUR 20.3 mn from EUR 11.4 mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it shows an improvement in operating profit from EUR 11.4 mn to EUR 20.3 mn, which signifies growth and success."
+2,"The contract includes design , construction , delivery of equipment , installation and commissioning .","Label: NEUTRAL
+Explanation: The sentence simply lists the components of the contract without expressing any positive or negative sentiment."
+2,"3 January 2011 - Scandinavian lenders Sampo Bank ( HEL : SAMAS ) , Pohjola Bank ( HEL : POH1S ) and Svenska Handelsbanken ( STO : SHB A ) have provided a EUR160m ( USD213m ) line of credit to Lemminkainen Oyj ( HEL : LEM1S ) , the Finnish construction firm said on Friday .","Label: POSITIVE
+Explanation: The sentence indicates a positive financial development where Scandinavian lenders have provided a significant line of credit to Lemminkainen Oyj, a Finnish construction firm."
+2,"Its product portfolio comprises harvesters , forwarders , harvester heads , as well as cranes and loaders .","NEUTRAL
+The sentence provides a factual description of the company's product portfolio without expressing any positive or negative sentiment."
+0,"Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said yesterday it returned to a net profit of EUR 2.7 million USD 3.8 m for the first nine months of 2010 versus a net loss of EUR 579,000 for the same period of 2009 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the company returned to a net profit of EUR 2.7 million for the first nine months of 2010, which is an improvement from the net loss of EUR 579,000 for the same period in 2009."
+0,"The earnings per share for the quarter came in at 0.25 eur , up from the 0.20 eur of the same quarter a year earlier .","Label: POSITIVE
+Explanation: The sentence indicates an increase in earnings per share from the previous year, which is a positive financial outcome."
+2,The figure does not include food exports from Finland .,"NEGATIVE
+The sentence indicates a limitation or exclusion, which typically conveys a negative sentiment."
+2,"In the first quarter of 2008 , Sacanfil 's net sales totalled EUR 50.0 mn and its operating profit EUR 4.7 mn .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the company's net sales and operating profit figures, which are stable and not showing a decline."
+2,"Tecnomen 's solution can be used for prepaid and post-paid billing , for charging and rating of voice and video calls , data traffic and any kind of content services in both mobile and fixed networks .","Label: POSITIVE
+Explanation: The sentence highlights the versatility and flexibility of Tecnomen's solution, indicating that it can be used for various billing and charging purposes in both mobile and fixed networks."
+2,"The new majority owners of Aspocomp Thailand Co. , Ltd are certain private persons belonging to immediate circle of Aspocomp 's present Joint Venture partner , Saha Pathana Inter-Holding Plc. .","NEUTRAL
+The sentence provides factual information about the ownership change at Aspocomp Thailand Co. without expressing any positive or negative sentiment."
+2,18:30 Dinner The conference program can also be viewed as a live audio webcast through the internet pages at www.citycon.com .,"NEUTRAL
+The sentence is providing information about the availability of a live audio webcast for the conference program, without expressing any positive or negative sentiment."
+0,"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales came from the acquisitions made in 2009 .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in net sales, which is a positive indicator for the company."
+2,The parties have agreed not to disclose the transaction value .,"Label: NEUTRAL
+Explanation: The sentence does not convey any positive or negative sentiment, it simply states a fact about the agreement between the parties."
+2,The solid fuel is heated before sludge is mixed therein . '',"Label: POSITIVE
+Explanation: The sentence describes a process of heating solid fuel before mixing sludge, indicating a practical and efficient method, hence conveying a positive sentiment."
+2,"About 36 % of this came from Aspo Chemicals , 39 % from Aspo Shipping and 25 % from Aspo Systems .","Label: NEUTRAL
+Explanation: The sentence provides a factual breakdown of the revenue distribution among different divisions of the company without expressing any positive or negative sentiment."
+0,The rationalization of the operations seeks to achieve over EUR 1 million in yearly savings as from the second quarter of the current financial year .,"Label: POSITIVE
+Explanation: The sentence indicates a positive outcome of achieving over EUR 1 million in yearly savings, which is a beneficial result for the company."
+0,Operating profit of the Asian plants grew markedly .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a significant growth in operating profit for the Asian plants."
+2,The proposal that the Board of Directors will make at the Annual General Meeting is attached as a whole to this release .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+2,The value of the orders is over EUR 10mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a high value of orders, which is over EUR 10mn."
+1,"Cargo traffic fell 1 % year-on-year to 8,561 tonnes in September 2009 .","Label: NEGATIVE
+Explanation: The decrease in cargo traffic indicates a decline in business activity, which is typically viewed as a negative sentiment."
+2,"New Chairman of the Board of Directors , Mr Chaim Katzman , will give a presentation and answer questions .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about the new Chairman of the Board of Directors giving a presentation and answering questions, without expressing any positive or negative sentiment."
+2,"The Stena Poseidon is a so-called Panamax tanker , designed to be able to pass through the narrow passages in the Panama Canal 's locks .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the Stena Poseidon being a Panamax tanker designed to navigate through the narrow passages in the Panama Canal's locks. There is no clear positive or negative sentiment expressed."
+2,"Financial Statements include the consolidated financial statements of the Group , the Board of Directors ' Report , the Auditors ' Report and the Corporate Governance Statement .","Label: NEUTRAL
+Explanation: The sentence provides a factual statement about the contents of financial statements without expressing any positive or negative sentiment."
+1,Talentum 's net sales in September were smaller than expected .,"Label: NEGATIVE
+Explanation: The sentence indicates disappointment or dissatisfaction with Talentum's net sales in September, suggesting a negative sentiment."
+0,"Finnair PLC carried a record 8.8 million passengers in 2006 , an increase of 3.5 percent on the previous year , the Finnish national carrier reported Tuesday .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a record number of passengers carried by Finnair PLC in 2006, showing an increase of 3.5 percent from the previous year."
+2,The combined value of the planned investments is about EUR 30mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the combined value of planned investments, which is about EUR 30mn. This suggests growth and potential financial success."
+2,"A maximum of 666,104 new shares can further be subscribed for by exercising B options under the 2004 stock option plan .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the number of new shares that can be subscribed for by exercising B options under the 2004 stock option plan, without expressing any positive or negative sentiment."
+2,A few employees would remain at the Oulu plant in support functions for other group units .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+2,"The move will be carried out by transferring HKScan 's production-related property , plant , equipment , as well as its holdings in subsidiaries and associate companies in the country to HKScan Finland .","NEUTRAL
+The sentence describes a business move without expressing any positive or negative sentiment."
+2,The Extraordinary General Meeting is expected to take place no later than 18 February 2011 .,"Label: NEUTRAL
+Explanation: This sentence is providing information about a future event without expressing any positive or negative sentiment."
+2,"The order includes a log handling line , peeling line and drying line for the production of parquet base layer veneer for Plyfa 's Hassela mill , central Sweden .","Label: POSITIVE
+Explanation: The sentence describes an order for equipment for production, indicating growth and investment in the company."
+2,"ALEXANDRIA , Va. , March 15 -- Jaakko Vilo of Turku , Finland , has developed a panel press .","NEUTRAL
+The sentence is neutral as it simply states a fact about Jaakko Vilo developing a panel press without expressing any positive or negative sentiment."
+0,"Finnish metal products company Componenta Oyj ( HEL : CTH1V ) said today its net loss narrowed to EUR 500,000 ( USD 680,000 ) in the last quarter of 2010 from EUR 5.3 million for the same period a year earlier .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the net loss of the company narrowed significantly from EUR 5.3 million to EUR 500,000 in the last quarter of 2010."
+0,M-real 's sales are expected to have increased by 4 % year-on-year to EUR609m in the second quarter of 2010 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an expected increase in sales for M-real in the second quarter of 2010."
+2,Their offering also covers localisation services related to production transfer to the Finnish company 's customers that already have production in Asian market or have made the decision to transfer production there .,"Label: POSITIVE
+Explanation: The sentence highlights the range of services offered by the Finnish company, including localisation services for production transfer to customers in the Asian market, indicating a positive aspect of their business capabilities."
+0,"Both operating profit and turnover for the six-month period increased , respectively from EUR0 .1 m and EUR29 .0 m , as compared to the corresponding period a year ago .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as both operating profit and turnover increased during the six-month period compared to the previous year."
+2,Raute is listed on the Nordic exchange in Helsinki .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact about Raute being listed on the Nordic exchange in Helsinki without expressing any positive or negative sentiment."
+0,"The world 's second largest stainless steel maker said net profit in the three-month period until Dec. 31 surged to euro603 million US$ 781 million , or euro3 .33 US$ 4.31 per share , from euro172 million , or euro0 .94 per share , the previous year .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in net profit for the world's second largest stainless steel maker, which is a positive financial outcome."
+2,"Tiimari 's registered share capital is 16,474,755 shares as per today .","NEUTRAL
+The sentence simply states a fact about Tiimari's registered share capital without expressing any positive or negative sentiment."
+2,"The mall will be financed on a parity basis by Pearl Plaza LLC , the joint venture company established by the Chinese investor Shanghai Industrial Investment Holdings Co Ltd , and SRV Group .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about the financing of the mall without expressing any positive or negative sentiment."
+2,The estimated value of the deal is USD 9.2 million .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions a specific value for the deal, which implies a successful business transaction."
+2,The terms and conditions of the year 2003 stock option scheme were published in a stock exchange release on 31 March 2003 .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+1,"Result before taxes decreased to nearly EUR 14.5 mn , compared to nearly EUR 20mn in the previous accounting period .","Label: NEGATIVE
+Explanation: The decrease in result before taxes from nearly EUR 20mn to nearly EUR 14.5 mn indicates a negative sentiment as it signifies a decline in financial performance."
+2,"Product coverage : baked goods ; biscuits ; breakfast cereals Data coverage : market sizes historic and forecasts , company shares , brand shares and distribution data .","NEUTRAL
+The sentence provides factual information about product coverage and data coverage without expressing any sentiment."
+2,The agreement must be approved by the Russian competition authorities before it enters into force .,"Label: NEUTRAL
+Explanation: The sentence is stating a fact about the approval process required for the agreement, without expressing any positive or negative sentiment."
+1,The Department Store Division 's sales fell by 8.6 % to EUR 140.2 mn .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in sales, which is typically associated with a negative sentiment."
+1,"Profit before taxes amounted to EUR 56.5 mn , down from EUR 232.9 mn a year ago .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in profit before taxes, which is a negative sentiment."
+2,Mursula said they tried to gather macro-economic perspective to see how Malaysia was doing .,"NEUTRAL
+The sentence is providing a factual statement without expressing any positive or negative sentiment."
+2,"CapMan , an asset manager , has EUR 3bn worth of assets under management in the Nordic region .","POSITIVE
+The sentence expresses a positive sentiment by highlighting the significant amount of assets under management by CapMan in the Nordic region."
+2,The contract includes heating plant equipment and associated installation work .,"NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+0,Operating profit rose to EUR 103.4 mn from EUR 23.2 in the corresponding period in 2006 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in operating profit, which is a positive indicator of financial performance."
+0,"Operating profit totalled EUR 83.0 mn , up from EUR 23.5 mn year-on-year .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in operating profit from the previous year, which is a positive indicator for the company."
+1,"Operating profit totaled EUR 3.8 mn , down from EUR 4.5 mn in the corresponding period in 2005 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in operating profit from the previous period, which is a negative sentiment."
+0,Efore 's results for the last quarter showed an even faster improvement as the company managed to better source its components .,"POSITIVE
+The sentence expresses a positive sentiment as it highlights an improvement in Efore's results in the last quarter, indicating successful management of sourcing components."
+0,Profit for the period increased from EUR 2.9 mn to EUR 10.5 mn .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in profit, which is generally viewed as a positive outcome for a company."
+2,"According to Finnish FIM Bank , Alpro 's price would be around EUR 100mn-150mn .","Label: NEUTRAL
+Explanation: The sentence simply states a price range for Alpro without expressing any positive or negative sentiment."
+2,STOCK EXCHANGE ANNOUNCEMENT 20 July 2006 1 ( 1 ) BASWARE SHARE SUBSCRIPTIONS WITH WARRANTS AND INCREASE IN SHARE CAPITAL A total of 119 850 shares have been subscribed with BasWare Warrant Program .,"Label: NEUTRAL
+Explanation: This sentence is providing information about share subscriptions and an increase in share capital, without expressing any positive or negative sentiment."
+0,"Systeemitiimi 's sales and project resources will also be strengthened , director Paul Skogberg said .","POSITIVE
+The sentence indicates a positive sentiment as it mentions the strengthening of sales and project resources, which implies growth and improvement within the company."
+0,Operating income rose to EUR 696.4 mn from EUR 600.3 mn in 2009 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in operating income from EUR 600.3 mn to EUR 696.4 mn in 2009."
+2,"The share capital of Alma Media Corporation business ID 1944757-4 is EUR 44,767,513.80 and it is divided into 74,612,523 shares .","Label: NEUTRAL
+Explanation: The sentence simply provides factual information about the share capital and number of shares of Alma Media Corporation without expressing any positive or negative sentiment."
+1,Net profit fell by almost half to +é 5.5 million from +é 9.4 million at the end of 2007 .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in net profit, which is a negative sentiment."
+2,"The approximately 20,000 dwt vessel has been ordered from India .","NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+2,Tielinja generated net sales of 7.5 mln euro $ 9.6 mln in 2005 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the net sales generated by Tielinja in 2005, which is a successful financial achievement."
+2,"Goodwill and other intangible assets account for some 2.0 mln euro ( $ 2.6 mln ) of the purchase price , 20 pct of which payable in Aspo shares .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the breakdown of the purchase price without expressing any positive or negative sentiment."
+2,"The five-storey , eco-efficient building will have a gross floor area of about 15,000 sq m. It will also include apartments .","Label: POSITIVE
+Explanation: The sentence describes a new building with eco-efficient features and a large floor area, which is generally seen as a positive development."
+2,Almost two thirds of Olvi 's net sales come from outside Finland .,"POSITIVE
+The statement highlights the positive aspect of Olvi's business by indicating a strong international presence contributing to almost two thirds of their net sales."
+2,"The changes will take effect on 1 January 2010 , and they are not estimated to have an impact on the number of employees .","NEUTRAL
+The sentence is providing factual information about a future event without expressing any positive or negative sentiment."
+2,"The company designs , manufactures and markets advanced composite products for industrial applications and consumer goods such as cross-country , alpine and Nordic Walking poles , floorball sticks and antenna radomes .","Label: POSITIVE
+Explanation: The sentence describes the company's activities in designing, manufacturing, and marketing advanced composite products for various applications, indicating a positive sentiment towards the company's capabilities and product range."
+2,"The company 's transportation business is conducted through Florida Rock & Tank Lines , which is a Southeastern transportation company concentrating in the hauling by motor carrier of liquid and dry bulk commodities .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the company's transportation business without expressing any positive or negative sentiment."
+2,"Elcoteq Dongguan was established in 1999 in the Nancheng District of Dongguan , China and is one of Elcoteq s four volume manufacturing plants in the Asia-Pacific region .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the establishment of Elcoteq Dongguan in China, without expressing any positive or negative sentiment."
+2,"According to HK Ruokatalo , almost all the meat used by the company comes from Finland .","Label: POSITIVE
+Explanation: The sentence conveys a positive sentiment as it highlights the company's commitment to sourcing meat locally from Finland, which can be seen as a sustainable and quality-driven practice."
+2,The terms and conditions of the Stock Option Scheme 2008 are available on the Company 's internet pages www.sanoma.com .,"Label: NEUTRAL
+Explanation: The sentence simply states the availability of the terms and conditions of the Stock Option Scheme 2008 on the company's website, without expressing any positive or negative sentiment."
+1,"Qualcomm estimated a first-quarter profit between 46 and 50 cents a share , excluding certain items , below the analyst estimate of 61 cents a share .","Label: NEGATIVE
+Explanation: The sentence indicates that Qualcomm's estimated first-quarter profit is below the analyst estimate, which is considered negative in terms of financial performance."
+0,"Global sports equipment maker Amer Sports Corp. , whose brands include Atomic , Salomon and Wilson , saw a 64 percent increase in third-quarter net profit to EURO 47.4 million $ 65 million on strong sales and cost cuts .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions a significant increase in net profit for Amer Sports Corp. due to strong sales and cost cuts."
+0,Passenger volumes rose by 8.4 % in the accounting period .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in passenger volumes by 8.4% during the accounting period."
+2,Any investment or investment activity to which this communication relates is only available to relevant persons and will be engaged in only with relevant persons .,"Label: NEUTRAL
+Explanation: The sentence does not convey any specific sentiment, it simply states a fact about investment activities being available only to relevant persons."
+2,Finnish Bank of +àland will launch its long-term pension savings account at the beginning of June 2010 .,"Label: POSITIVE
+Explanation: The sentence is conveying a positive sentiment as it announces the launch of a new long-term pension savings account by the Finnish Bank of Åland, indicating growth and expansion in their services."
+2,The value of the contract is EUR 25mn .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact about the value of the contract without expressing any positive or negative sentiment."
+0,"London 's leading shares today jumped almost 100 points , or 1.7 % , as the market opened .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes London's leading shares jumping almost 100 points, or 1.7%, as the market opened, which is a sign of growth and positivity in the market."
+2,"Simultaneously , his responsibility area is extended from legal affairs to cover also mergers and acquisitions .","NEUTRAL
+The sentence does not convey a strong positive or negative sentiment, simply stating a change in responsibilities for the individual."
+2,ABN : 59 087 901 620 now represent 5.10 % of the voting rights and share capital of Citycon Oyj .,"Label: NEUTRAL
+Explanation: The sentence provides factual information about the ownership percentage of ABN in Citycon Oyj without expressing any positive or negative sentiment."
+2,The company specialises in temporary electrification and heating at construction sites .,"Label: POSITIVE
+Explanation: The sentence describes a specific expertise of the company, indicating a positive aspect of their services."
+0,"( ADP News ) - Feb 6 , 2009 - Finnish fishing tackle company Rapala VMC Corp ( HEL : RAP1V ) said today its net profit rose to EUR 19.2 million ( USD 24.6 m ) for 2008 from EUR 17.5 million for 2007 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it reports an increase in net profit for the Finnish fishing tackle company Rapala VMC Corp from EUR 17.5 million in 2007 to EUR 19.2 million in 2008."
+2,The transaction is planned to be financed with a EUR40m market-based loan granted by Standard Chartered Bank Hong Kong .,"POSITIVE
+The sentence indicates a positive sentiment as it mentions a planned financing of EUR40m through a market-based loan, which suggests a strategic financial move for the transaction."
+2,Their names have not yet been released .,"NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+2,The company website is www.ahlstrom.com .,"NEUTRAL
+The sentence is neutral as it simply provides information about the company's website without expressing any positive or negative sentiment."
+0,Finnish-Swedish TietoEnator is expanding its business quickly in Russia .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the rapid expansion of TietoEnator's business in Russia, suggesting growth and success."
+0,"Tiimari , the Finnish retailer , reported to have geenrated quarterly revenues totalling EUR 1.3 mn in the 4th quarter 2009 , up from EUR 0.3 mn loss in 2008 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in quarterly revenues from a loss in the previous year."
+2,"Founded in 1923 , Finnair is one of the world 's oldest airlines and flies to 60 destinations with a fleet of 63 aircraft , employing 9,500 people .","Label: POSITIVE
+Explanation: The sentence provides positive information about Finnair, highlighting its long history, extensive route network, fleet size, and number of employees."
+2,"CapMan has four investment areas ( CapMan Buyout , CapMan Technology , CapMan Life Science and CapMan Real Estate ) , and each of them has a dedicated team .","NEUTRAL
+The sentence provides factual information about the different investment areas of CapMan and their dedicated teams, without expressing any positive or negative sentiment."
+2,Rental of building equipment accounted for 88 percent of the operating income .,"POSITIVE
+The sentence indicates a high percentage (88 percent) of operating income coming from the rental of building equipment, which is a positive sign of revenue generation."
+1,"The company 's profit before taxes fell to EUR 21.1 mn in the third quarter of 2008 , compared to EUR 35.8 mn in the corresponding period in 2007 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in profit before taxes, which is a negative sentiment."
+2,The company then said it will focus its resources on clinical research .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as the company is focusing its resources on clinical research, which is typically seen as a valuable and important area of investment."
+2,"The fixed-term contract of Mr. Jarmo Ukonaho , the current General Manager of Incap 's Indian operations , will finish by the end of the year .","Label: NEGATIVE
+Explanation: The sentence indicates that Mr. Jarmo Ukonaho's contract will be ending, which may imply a negative sentiment as it suggests a potential loss or change in leadership."
+2,The deal is subject to approval by the Norwegian competition authorities .,"Label: NEUTRAL
+Explanation: This sentence is providing a factual statement about the deal being subject to approval, without expressing any positive or negative sentiment."
+2,"Following the demerger , the vice president of the group 's pharmaceutical trade in Finland , Jukka Niemi , will be appointed managing director of Oriola in addition to his current responsibilities .","POSITIVE
+The sentence indicates a positive outcome of the demerger, as Jukka Niemi will be appointed as the managing director of Oriola, showcasing growth and trust in his capabilities."
+0,"Revenue from July to September grew 21 percent to EURO 2.3 billion , the Finnish company said Thursday .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a significant growth in revenue for the Finnish company during the specified period."
+2,"In 2010 , Sanoma Magazines expects net sales to be at the 2009 level .","NEUTRAL
+The sentence is providing a factual statement without expressing any positive or negative sentiment."
+2,"In addition to the Tulikivi Corporation , he is also currently a member of the Board of the following companies : Altia Corporation , J+ñrvi-Suomen Portti Osuuskunta , Osuuskunta KPY , Profile Vehicles Oy and Voimatel Oy .","NEUTRAL
+The sentence provides a list of companies that the individual is a member of, without expressing any positive or negative sentiment."
+0,Finnish handling systems company Cargotec Oyj ( HEL : CGCBV ) said today that it won a EUR 13 million ( USD 16.6 m ) contract to deliver MacGregor hatch covers for ships ordered by Norwegian shipowner Grieg Shipping .,"Label: POSITIVE
+Explanation: The sentence conveys positive sentiment as it discusses a successful contract win by Cargotec Oyj, which will result in delivering hatch covers for ships, indicating business growth and success."
+2,"The sellers include 40 shareholders , including Intellibis management , employees and other investors .","Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+0,"In 2008 , the deal is likely to bring savings of EUR 20mn-25mn .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions potential savings of EUR 20mn-25mn, which is seen as a beneficial outcome."
+1,Operating profit for 2009 lower than outlook published earlier .,"Label: NEGATIVE
+Explanation: The sentence indicates that the operating profit for 2009 was lower than expected, which is a negative sentiment for the company."
+2,"So far as is known , he did not sell shares that he owns personally .","NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+0,"26 January 2011 - Finnish metal products company Componenta Oyj ( HEL : CTH1V ) said yesterday its net loss narrowed to EUR500 ,000 in the last quarter of 2010 from EUR5 .3 m for the same period a year earlier .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the net loss of the company narrowed from EUR5.3 million to EUR500,000 in the last quarter of 2010."
+2,"The customer is then forwarded to the site , and unknown to him logged in with the first number .","NEUTRAL
+The sentence describes a neutral action without expressing any positive or negative sentiment."
+0,"Both operating profit and net sales for the nine-month period increased , respectively by 26.6 % and 3.4 % , as compared to the corresponding period in 2006 .","Label: POSITIVE
+Explanation: The sentence indicates positive growth in both operating profit and net sales for the nine-month period, with operating profit increasing by 26.6% and net sales increasing by 3.4% compared to the corresponding period in 2006."
+2,The following information was released by Comptel : Tomorrow the Chairman of the Federal Communications Commission is scheduled to deliver the National Broadband Plan to Congress .,"Label: NEUTRAL
+Explanation: The sentence simply states a scheduled event without expressing any positive or negative sentiment."
+2,Bluewin Security is available as a monthly subscription .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about the availability of Bluewin Security as a monthly subscription without expressing any positive or negative sentiment."
+0,`` I am extremely delighted with this project and the continuation of cooperation with Viking Line .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment of being extremely delighted with the project and looking forward to continuing cooperation with Viking Line."
+1,Finnish retail software developer Aldata Solution Oyj reported a net loss of 11.7 mln euro $ 17.2 mln for 2007 versus a net profit of 2.5 mln euro $ 3.7 mln for 2006 .,"Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions a net loss for the company in 2007 compared to a net profit in 2006."
+0,"Lithuanian beer makers sold 256.88 million liters of beer in 2005 , a rise of 4.5 per cent from the year-earlier figure of 245.92 million liters .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in beer sales by 4.5 percent from the previous year."
+0,Operating profit rose to EUR 4.7 mn from EUR 4.6 mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as the operating profit increased from EUR 4.6 mn to EUR 4.7 mn, showing growth and improvement in financial performance."
+2,"Biohit Oyj develops , manufactures and markets liquid handling products and diagnostic test systems for use in research , healthcare and industrial laboratories .","Label: POSITIVE
+Explanation: The sentence describes the company Biohit Oyj in a neutral and factual manner, highlighting its activities in developing, manufacturing, and marketing liquid handling products and diagnostic test systems for various industries."
+0,Vacon 's cash flow from operations grew to EUR 37.1 mn from EUR 21.9 mn a year ago .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in Vacon's cash flow from operations, from EUR 21.9 mn to EUR 37.1 mn, showing growth and financial improvement."
+2,The turbines are expected to be launched by the end of 2012 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it suggests that the turbines will be launched by the end of 2012, which implies progress and achievement."
+2,"Tieto 's service is also used to send , process and receive materials related to absentee voting .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about the use of Tieto's service for sending, processing, and receiving materials related to absentee voting, without expressing any positive or negative sentiment."
+0,Rapala said it estimates it will make savings of 1-2 mln eur a year by centralising its French operations at one site .,"Label: POSITIVE
+Explanation: The sentence indicates that Rapala expects to make cost savings by centralizing its French operations, which is a positive outcome for the company."
+1,"Last year , 8.3 million passengers flew the airline , down 4 percent from 2007 .","Label: NEGATIVE
+Explanation: The decrease in the number of passengers flying the airline compared to the previous year indicates a negative sentiment as it suggests a decline in business performance."
+2,"Kemira 's R&D organization comprises approximately 750 people , the company said .","NEUTRAL
+The sentence provides a factual statement about the size of Kemira's R&D organization without expressing any positive or negative sentiment."
+2,Profit after taxes totaled EUR 12.1 mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions a profit of EUR 12.1 million after taxes, which is a successful financial outcome."
+2,Negotiations with representatives of the personnel regarding the restructuring process have now been ended .,"NEGATIVE
+The sentence indicates a negative sentiment as the negotiations regarding the restructuring process have been ended, potentially leading to job losses or other negative outcomes for the personnel."
+2,"The company said that currently the French distribution unit Ragot is located in Loudeac , Normandy , the distribution unit Waterqueen and line supplier Tortue in Saint Marcel in mid-France and the hook manufacturing unit VMC and hook distribution unit VMC Europe in Morvillars .","NEUTRAL
+The sentence provides factual information about the locations of various distribution and manufacturing units of the company without expressing any positive or negative sentiment."
+0,"Both operating profit and net sales for the six-month period increased , respectively from EUR7 .5 m and EUR655 .5 m , as compared to the corresponding period in 2005 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as both operating profit and net sales increased during the six-month period compared to the corresponding period in 2005."
+2,In July it and Quadriga Capital sold their Lewa GmbH pump-making business to Japan 's Nikkiso Co. .,"POSITIVE
+The sentence describes a successful business transaction where the pump-making business was sold, indicating a positive outcome."
+2,"Tyrv+ñinen is of the opinion that the airline has been repeating this for some time already , however .","NEGATIVE
+The sentence expresses a negative sentiment as it implies frustration or annoyance towards the airline for continuously repeating the same behavior."
+1,"Operating loss totalled EUR 5.2 mn , compared to a loss of EUR 3.4 mn in the corresponding period in 2008-2009 .","Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions an increase in operating loss from the previous period."
+2,"The executive said that countries such as Brazil , Chile , Argentina and Mexico will lead the adoption in the business Ethernet services segment , while Brazil and Mexico will be the early adopters of carrier Ethernet for mobile backhaul .","POSITIVE
+The sentence expresses a positive sentiment by highlighting the leadership and early adoption of business Ethernet services and carrier Ethernet in countries like Brazil, Chile, Argentina, and Mexico."
+2,"Includes company and brand share data by category , as well as distribution channel data .","NEUTRAL
+The sentence provides factual information without expressing any positive or negative sentiment."
+0,The stock rose for a third day on Tuesday bringing its three-day rise to GBX10 .50 or 1.8 % .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes the stock rising for a third consecutive day, resulting in a three-day rise of GBX10.50 or 1.8%."
+0,That would be an increase from estimated sales of 117 million last year .,"POSITIVE
+The sentence indicates a potential increase in sales, which is generally viewed as a positive outcome in business."
+2,25 November 2010 - Finnish paints and coatings company Tikkurila Oyj ( HEL : TIK1V ) said today that Finnish state-owned investment company Solidium Oy sold its 14.7 % stake in the company for a total of EUR98m .,"Label: POSITIVE
+Explanation: The sentence indicates a positive event where Solidium Oy sold its stake in Tikkurila Oyj for a total of EUR98m, which can be seen as a successful transaction."
+0,"Markets had been expecting a poor performance , and the company 's stock was up 6 percent at  x20ac 23.89 US$ 33.84 in early afternoon trading in Helsinki .","Label: POSITIVE
+Explanation: Despite the negative sentiment of poor performance being expected, the fact that the company's stock was up 6 percent indicates a positive reaction from the market."
+0,"HELSINKI ( Thomson Financial ) - Kone said it has won four orders in Saudi Arabia , United Arab Emirates and Qatar worth 40 mln eur .","POSITIVE
+The sentence indicates that Kone has secured new orders in multiple countries, which is a positive sign for the company's business growth and revenue."
+2,"The change in holdings in accordance with Chapter 2 , Section 9 of the Finnish Securities Markets Act is described below .","NEUTRAL
+This sentence is providing neutral information about a change in holdings in accordance with a specific section of the Finnish Securities Markets Act."
+0,"Earnings per share ( EPS ) amounted to EUR0 .98 , up from the loss of EUR0 .02 .","Label: POSITIVE
+Explanation: The increase in earnings per share from a loss to a positive value indicates a positive sentiment as it shows improvement in financial performance."
+0,"4 February 2011 - Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said Wednesday its net profit rocketed to EUR4 .8 m in 2010 from EUR416 ,000 in 2009 and it lifted its dividend proposal .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in net profit from EUR416,000 in 2009 to EUR4.8 million in 2010, along with the company's decision to raise its dividend proposal, reflecting a positive sentiment."
+2,The value of the multi-year agreement is over EUR 2mn a year .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the value of the agreement being over EUR 2mn a year, suggesting a significant financial benefit."
+1,"Based on the first quarter result , existing order backlog and new order prospects , the company expects that full-year sales will contract by 25 % from 2008 , the gross margin will stay at a healthy level , and the operating profit margin will be lower than in 2008 due to lower sales volume .","Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions a contraction in full-year sales by 25% and a lower operating profit margin due to lower sales volume."
+2,The markets expect Heineken to sell Hartwall as a whole or in parts .,"NEUTRAL
+The sentence is providing information without expressing any positive or negative sentiment towards the expectation of Heineken selling Hartwall."
+2,"Capacity of the facility made by Finland 's Vaahto Group is 86,000 tons of light coated paper .","NEUTRAL
+The sentence provides factual information about the capacity of the facility without expressing any positive or negative sentiment."
+0,"Sales improved to SEK 1,553 mn , compared with SEK 1,408 mn .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it shows an improvement in sales from SEK 1,408 mn to SEK 1,553 mn."
+2,"In addition to verification of an identity and digital signatures , new state-approved Mobile ID enables to cast votes in elections as well .","Label: POSITIVE
+Explanation: The sentence highlights the positive aspect of the new state-approved Mobile ID, which allows individuals to cast votes in elections in addition to verifying identity and digital signatures."
+2,This release is not an offer of securities for sale into the United States or elsewhere .,"Label: NEGATIVE
+Explanation: The sentence contains a disclaimer stating that the release is not an offer of securities for sale, which typically implies a negative sentiment as it indicates restrictions or limitations."
+2,"OTHER  North-Rhine Westphalia - Is to issue a benchmark , 5 year fixed rate deal in Euros .","NEUTRAL
+The sentence is neutral as it simply states a financial transaction without expressing any positive or negative sentiment."
+2,"The share capital of Basware Corporation is 11,720,829 .","NEUTRAL
+The sentence simply states a fact about the share capital of Basware Corporation without expressing any positive or negative sentiment."
+2,"FL Group 's private equity division manages all operating companies , including Icelandair Group , FL Travel Group , Bluebird and Sterling .","NEUTRAL
+The sentence provides a factual statement about FL Group's private equity division managing various operating companies, without expressing any positive or negative sentiment."
+1,"Earnings per share ( EPS ) amounted to EUR1 .37 , down from EUR2 .30 .","Label: NEGATIVE
+Explanation: The decrease in earnings per share from EUR2.30 to EUR1.37 indicates a negative sentiment as it signifies a decline in profitability."
+2,About Dopplr Dopplr is a service for smart travellers .,"Label: POSITIVE
+Explanation: The sentence describes Dopplr as a service for smart travelers, which implies a positive sentiment towards the service being helpful or beneficial for travelers."
+2,"Latin America currently accounts for approximately 40 % of sales at Tecnotree , company president and CEO Eero Mertano recently told BNamericas .","POSITIVE
+The sentence indicates a positive sentiment as it highlights the significant contribution of Latin America to the sales of Tecnotree, showcasing growth and success in that region."
+2,"Panostaja owns a 68.77 pct of share capital and the voting rights of Suomen Helasto shares following an exchange of shares which was carried out on May 30 , 2007 .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the ownership of shares without expressing any positive or negative sentiment."
+2,"Helsinki 19 May 2010 - Finnish company Lemminkainen Oyj ( HEL : LEM1S ) said today that it will construct an office building at Toolonlahti in downtown Helsinki , without disclosing financial details .","Label: NEUTRAL
+Explanation: The sentence provides neutral information about Lemminkainen Oyj's plan to construct an office building in downtown Helsinki without disclosing financial details."
+2,"On the following workday customers can check from their home computers how their purchases are divided between different ingredient groups , how much energy various products contain and what is the nutritional content of all purchases .","NEUTRAL
+The sentence provides information about a service that allows customers to track their purchases and analyze the nutritional content, without expressing any positive or negative sentiment."
+2,"The company reported a profit of 800,000 euro ($ 1.2 mln)on the sale of its Varesvuo Partners sub-group and a loss of 400,000 euro $ 623,000 caused by the sale of its program production subsidiary Oy Filmiteollisuus Fine Ab .","Label: NEUTRAL
+Explanation: The sentence provides a mix of positive and negative information regarding the company's financial performance, resulting in a neutral sentiment classification."
+2,"Utah 's capital wanted to be the next U.S. headquarters of Amer Sports Corp. , a ski-equipment company .","POSITIVE
+The sentence expresses a positive sentiment as it indicates a desire for growth and opportunity in Utah's capital by wanting to become the next U.S. headquarters of a ski-equipment company."
+0,"The last quarter was the best quarter of 2009 in net sales , and the operating margin rose to 12.2 % .","Label: POSITIVE
+Explanation: The sentence expresses positive sentiment by highlighting the success of the last quarter in terms of net sales and operating margin."
+0,"In the first nine months of 2010 , the company 's net loss narrowed to EUR 415,000 from EUR 7.4 million for the corresponding period of 2009 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a decrease in net loss for the company from EUR 7.4 million in 2009 to EUR 415,000 in the first nine months of 2010."
+2,Sunrise Resources operates in Russian near-shore development markets through its wholly-owned Russian subsidiary and has 80 % of its personnel in Russia .,"NEUTRAL
+The sentence provides factual information about the company's operations in Russian near-shore development markets and the distribution of its personnel, without expressing any positive or negative sentiment."
+1,"Finnish plumbing and heating systems supplier Uponor 's net sales from continuing operations decreased by 9.4 % in 2008 to EUR 949.2 mn from EUR 1,047.4 mn in 2007 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in net sales, which is typically associated with a negative sentiment in a business context."
+2,"Under the agreement , Larox will transfer 10 employees within engineering and documentation related to delivery projects and product maintenance in Finland to Etteplan as of January 1 , 2007 .","Label: NEUTRAL
+Explanation: The sentence simply states a transfer of employees as part of an agreement, without expressing any positive or negative sentiment."
+2,"`` After the transaction , Tikkurila has no powder coatings-related operations , '' the company said .","NEGATIVE
+The sentence indicates a negative sentiment as it suggests that Tikkurila has completely divested its powder coatings-related operations, potentially resulting in loss of business or revenue."
+2,"From 2003 on , the emphasis of Kyro 's strategy has been on Glaston 's growth .","POSITIVE
+The sentence expresses a positive sentiment as it highlights the focus on growth in Glaston, indicating a positive direction in the company's strategy."
+1,"In July-September 2009 , Konecranes ' sales decreased to EUR 368.7 mn from EUR 520.4 mn in July-September 2008 .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in sales, which is typically associated with a negative sentiment in a business context."
+2,Mr Jortikka is president of the base metal division of Outotec Oyj in Finland and is on the executive committee of Outotec .,"NEUTRAL
+The sentence provides factual information about Mr Jortikka's position within Outotec Oyj without expressing any positive or negative sentiment."
+0,Finnish Bore that is owned by the Rettig family has grown recently through the acquisition of smaller shipping companies .,"Label: POSITIVE
+Explanation: The sentence describes the growth of Finnish Bore through acquisitions, indicating a positive sentiment towards the company's expansion."
+0,Our standardised services have met with a positive reception among our customers as well as at Itella .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment by stating that the standardised services have been well received by customers and at Itella."
+0,Finnish department store chain Stockmann Oyj Abp net profit rose to 39.8 mln euro ( $ 56.8 mln ) for the first nine months of 2007 from 37.4 mln euro ( $ 53.4 mln ) for the same period of 2006 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in net profit for the Finnish department store chain Stockmann Oyj Abp for the first nine months of 2007 compared to the same period in 2006."
+2,"According to the notification , the holdings of Ameriprice Inc. and its group companies are now in total 808,973 shares , which represent 3.582 % of Tekla -¦ s shares and voting rights .","NEUTRAL
+The sentence provides factual information about the holdings of Ameriprice Inc. and its group companies in Tekla, without expressing any positive or negative sentiment."
+2,"8,600 m , and at the time of investment it is fully leased to several tenants .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the property being fully leased to several tenants at the time of investment, without expressing any positive or negative sentiment."
+2,"ITG 's share in the deal is estimated at some 500,000 euro $ 627,000 .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about ITG's share in the deal without expressing any positive or negative sentiment."
+2,"The Annual Report contains the financial statements , the consolidated financial statements , the report by the Board of Directors and the auditor 's report .","Label: NEUTRAL
+Explanation: The sentence simply states the contents of the Annual Report without expressing any positive or negative sentiment."
+2,"Incap Corporation Stock Exchange Announcement 29 April 2010 at 1 p.m. INVITATION TO A NEWS CONFERENCE ON INCAP 'S INTERIM REPORT Q1-2010 Incap will publish its interim report for January-March 2010 on Wednesday , 5 May 2010 .","NEUTRAL
+The sentence is providing information about an upcoming news conference and the release of a financial report, without expressing any positive or negative sentiment."
+2,"Tecnotree 's convergent charging solution includes functionality for prepaid and post-paid billing , charging and rating of voice calls , video calls and raw data traffic for both mobile and fixed networks .","Label: POSITIVE
+Explanation: The sentence describes the features of Tecnotree's convergent charging solution, highlighting its functionality for prepaid and post-paid billing, charging, and rating of various types of calls and data traffic for both mobile and fixed networks. This positive tone indicates the capabilities and versatility of the solution."
+2,Fancy Dans on the move FAB Glasgow gift and interiors store Fancy Dans is moving !,"POSITIVE
+The sentence expresses excitement and anticipation about the store Fancy Dans moving, indicating a positive sentiment."
+1,Kone shares dropped 4.1 percent to  x20ac 43 US$ 55.77 in Helsinki .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in the value of Kone shares, which is typically associated with a negative sentiment in financial contexts."
+2,"The latest result included per-share charges of 5 cents for stock compensation , 1 cent for research and development and 1 cent for strategic investments .","Label: NEGATIVE
+Explanation: The sentence mentions charges for stock compensation, research and development, and strategic investments, indicating a decrease in profit or financial performance."
+2,Each share is entitled to one vote .,"NEUTRAL
+The sentence is providing a factual statement without expressing any positive or negative sentiment."
+0,"In Sweden , operating profit for the period under review totaled EUR 3.4 mn , up 30.8 % from the corresponding period in 2005 .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in operating profit by 30.8% compared to the corresponding period in 2005."
+0,`` Our customer has been satisfied with Basware Invoice Automation solution and extends the implementation to new geographies .,"Label: POSITIVE
+Explanation: The sentence expresses satisfaction from the customer with the Basware Invoice Automation solution and their decision to extend the implementation to new geographies, indicating a positive sentiment."
+2,"Apartments of YIT Home may be purchased in 5 regions of Russia , where YIT subsidiaries carry out their activities : Moscow and Moscow region , St. Petersburg , Ekaterinburg , Kazan and Rostov-on-Don .","Label: POSITIVE
+Explanation: The sentence provides information about the availability of YIT Home apartments in multiple regions of Russia, indicating a wide range of options for potential buyers."
+0,Kone 's net sales rose by some 14 % year-on-year in the first nine months of 2008 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a significant increase in Kone's net sales by 14% year-on-year in the first nine months of 2008."
+0,The growth of net sales in the first half of 2008 has been 28 % compared with the first half of 2007 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in net sales, which is typically viewed as a positive outcome for a company."
+2,"We know that it exists , '' Artemyev said .","NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+0,Stora Enso 's third-quarter pre-tax profit doubled to EUR 197mn .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a significant increase in Stora Enso's pre-tax profit, which doubled to EUR 197mn in the third quarter."
+2,"Tyrvaan Sanomat , published twice a week by Tyrvaan Sanomat Oy , appears in Sastamala and Kiikoinen .","NEUTRAL
+This sentence provides factual information about the publication Tyrvaan Sanomat without expressing any positive or negative sentiment."
+1,"Operating profit totaled EUR 9.4 mn , down from EUR 11.7 mn in 2004 .","Label: NEGATIVE
+Explanation: The decrease in operating profit from EUR 11.7 mn in 2004 to EUR 9.4 mn indicates a negative sentiment as it shows a decline in profitability."
+2,AffectoGenimap builds highly customised IT solutions for its customers in Finland and the Baltic countries .,"Label: POSITIVE
+Explanation: The sentence describes AffectoGenimap as a company that builds highly customised IT solutions for its customers in Finland and the Baltic countries, indicating a positive and successful business operation."
+0,Operating profit excluding non-recurring items increased by 27 % to EUR 81.9 mn from EUR 64.4 mn in the corresponding period in 2008 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in operating profit, which is a positive financial outcome."
+2,"ISMS does not disclose its financial results , the daily said .","Label: NEUTRAL
+Explanation: The sentence does not convey a positive or negative sentiment, it simply states a fact about ISMS not disclosing its financial results."
+2,He joined Rautakirja in 1997 to lead one of its four business areas and took up the position of President and CEO in 2001 .,"POSITIVE
+The sentence describes a progression in the individual's career, indicating growth and advancement within the company, which typically conveys a positive sentiment."
+2,The contract value amounts to EUR 2.4 million .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the value of the contract, which is EUR 2.4 million."
+0,"Cost savings will then rise to some 20 mln eur a year from 2007 , OKO said .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an increase in cost savings, which is typically seen as a positive outcome for a company."
+2,Neste Oil Corporation Refining Operation Asset Summary Report Summary Neste Oil Corporation Refining Operation Assets Summary Report is an essential source for company data and information .,"Label: NEUTRAL
+Explanation: The sentence provides a neutral statement about the Neste Oil Corporation Refining Operation Asset Summary Report being an essential source for company data and information."
+1,Comparable operating profit decreased to EUR 13.8 mn from EUR 17.1 mn in the corresponding period in 2005 .,"Label: NEGATIVE
+Explanation: The sentence indicates a decrease in comparable operating profit, which is a negative sentiment."
+1,Finnair 's total traffic decreased by 8.7 % in terms of revenue passenger kilometres .,"NEGATIVE
+The sentence indicates a decrease in Finnair's total traffic, which is a negative sentiment in terms of revenue passenger kilometres."
+0,"Profit after taxes for the period was up to EUR0 .9 m , from EUR0 .01 m last year .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an increase in profit after taxes from EUR0.01 million to EUR0.9 million compared to the previous year."
+1,"Therefore , the company 's 2005 result will remain weaker than that of 2004 .","Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions that the company's 2005 result will be weaker than that of 2004."
+2,"Tekla provides 3D software for building and infrastructure engineering , with a focus on building information modelling of steel and concrete structures from design to construction .","Label: POSITIVE
+Explanation: The sentence highlights the positive aspect of Tekla providing 3D software for building and infrastructure engineering, showcasing their expertise and focus on building information modeling."
+2,"ADPnews - Dec 23 , 2009 - Norwegian financial services group SpareBank 1 Gruppen AS OSL : SBGRP said its board of directors appointed today Jarle Haug managing director of its claims collection subsidiary SpareBank 1 Gruppen Finans","NEUTRAL
+The sentence provides factual information about the appointment of a managing director, without expressing any positive or negative sentiment."
+2,Work on the assignment has already started and is due for completion in spring 2011 .,"Label: POSITIVE
+Explanation: The sentence indicates progress and a clear timeline for completion, suggesting a positive sentiment towards the assignment."
+2,"The company said that 80 % of the shares of the holding company will be sold to Meadville Holdings Limited , a Hong Kong listed parent company of the Meadville Group .","Label: POSITIVE
+Explanation: The sentence indicates a positive event of selling shares to a parent company, which can be seen as a strategic move for the company."
+2,"The Company serves approximately 3,000 customers in over 100 countries .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment by highlighting the wide reach and customer base of the company, serving a large number of customers in various countries."
+1,"The period 's sales dropped to EUR 30.6 million from EUR 38.3 million , according to the interim report , released today .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in sales, which is typically associated with a negative sentiment in a business context."
+2,"However , the brokers ' ratings on the stock differ .","NEUTRAL
+The sentence does not convey a clear positive or negative sentiment, but rather states a fact about differing opinions among brokers regarding the stock."
+2,The total value of the deliveries is some EUR65m .,"POSITIVE
+The sentence indicates a positive sentiment as it highlights a significant value of EUR65m in deliveries."
+2,"To check them out or to make a bid they will be in the Deka Showroom , Fortitude Valley .","NEUTRAL
+The sentence is providing information about the location of the Deka Showroom without expressing any positive or negative sentiment."
+1,Swedbank 's shares have been hardest hit of the Swedish banks by the ongoing international financial crisis .,"Label: NEGATIVE
+Explanation: The sentence indicates that Swedbank's shares have been negatively impacted by the ongoing international financial crisis, resulting in a negative sentiment."
+1,"Copper , lead and nickel also dropped ... HBOS ( HBOS ) plummeted 20 % to 70.3 pence after saying this year+ó ??","Label: NEGATIVE
+Explanation: The mention of dropping copper, lead, and nickel prices along with HBOS plummeting 20% indicates a negative sentiment related to financial performance."
+2,New Novator products are supposed to be exported .,"Label: NEUTRAL
+Explanation: The sentence does not convey a strong positive or negative sentiment, simply stating a fact about the export of new Novator products."
+2,Investment management and investment advisory services are the company 's sole line of business .,"NEUTRAL
+The sentence describes a factual statement about the company's business focus without expressing any positive or negative sentiment."
+2,The increase range will vary up to 10 % .,"Label: NEUTRAL
+Explanation: The sentence does not convey a strong positive or negative sentiment, simply stating that the increase range will vary up to 10%, which is a neutral statement."
+2,"The Samsung Mobile Applications Store was launched in January 2009 by Samsung Mobile Innovator , a program which enables mobile software developers to create applications for use across Samsung mobile devices .","Label: POSITIVE
+Explanation: The sentence describes the launch of the Samsung Mobile Applications Store, which provides a platform for mobile software developers to create applications for Samsung mobile devices, indicating a positive development in the mobile technology industry."
+2,"Currently it operates a fleet of eight carriers , as well as nine pushers and barges .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about the number of carriers, pushers, and barges operated by the company without expressing any positive or negative sentiment."
+2,"`` The enterprise value of the Fray Bentos pulp mill and Forestal Oriental totals approximately euro1 .6 billion , '' UPM said .","POSITIVE
+The sentence expresses a positive sentiment as it highlights the significant value of the Fray Bentos pulp mill and Forestal Oriental, totaling approximately euro1.6 billion, which is a strong indicator of financial success for UPM."
+2,The sellers were EOSS Innovationsmanagement and a group of private individuals .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+2,"The add-on order contains , among others , control valves and instrumentation as well as complete mill engineering and electrification with Metso drive controls .","Label: POSITIVE
+Explanation: The sentence describes an add-on order that includes various components for mill engineering and electrification, indicating a positive development in business."
+0,Cash flow from business operations totalled EUR 0.4 mn compared to a negative EUR 15.5 mn in the first half of 2008 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive change in cash flow from business operations, showing an improvement from a negative EUR 15.5 million to EUR 0.4 million."
+2,"The devices would be launched in the Chinese market in late 2006 , the company said .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions the launch of devices in a new market, which can lead to potential growth and expansion for the company."
+2,The CVs of the proposed members are available for viewing from 12 March 2008 onwards on the Internet at www.sampo.com/ir .,"NEUTRAL
+The sentence is providing information about where to view the CVs of the proposed members, without expressing any positive or negative sentiment."
+2,Registration is required .,"NEUTRAL
+The sentence is neutral as it simply states a requirement without expressing any positive or negative sentiment."
+2,The Diameter Protocol is developed according to the standards IETF RFC 3588 and IETF RFC 3539 .,"NEUTRAL
+The sentence provides factual information about the development of the Diameter Protocol according to specific standards, without expressing any positive or negative sentiment."
+2,Olli-Pekka Laine has been appointed as the Chairman and Erkki Pehu-Lehtonen as the Vice Chairman of the Board .,"Label: POSITIVE
+Explanation: The sentence is positive as it is announcing the appointment of key positions within the company, which is typically seen as a positive development."
+2,Mr. Kari Stadigh will carry on as Chairman of the Board and Mr. Matti Arteva as Vice-Chairman .,"Label: NEUTRAL
+Explanation: The sentence simply states the continuation of Mr. Kari Stadigh as Chairman of the Board and Mr. Matti Arteva as Vice-Chairman, without expressing any positive or negative sentiment."
+2,SHARE REPURCHASE 11.01.2008 In the Helsinki Stock Exchange On behalf of Sampo plc Danske Bank A-S Helsinki Branch,"NEUTRAL
+The sentence is providing factual information about a share repurchase transaction without expressing any positive or negative sentiment."
+2,The company does not disclose the sum it applied for .,"NEUTRAL
+The sentence does not convey a positive or negative sentiment, it simply states a fact about the company not disclosing a specific sum."
+2,Pertti Ervi is independent from the Company and its major shareholders .,"Label: NEUTRAL
+Explanation: The sentence does not convey any strong positive or negative sentiment, it simply states a fact about Pertti Ervi's independence from the Company and its major shareholders."
+0,"Net interest income was EUR 39.3 mn , up from EUR 32.7 mn .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it shows an increase in net interest income from EUR 32.7 mn to EUR 39.3 mn."
+2,"He answers questions on how many visitors Conversations gets , how big the team is and what the problems are when setting up social media channels .","Label: NEUTRAL
+Explanation: The sentence provides factual information without expressing any positive or negative sentiment."
+2,The annual net sales of the unit is some EUR 5 million and it currently employs some 55 people .,"Label: NEUTRAL
+Explanation: The sentence provides factual information about the annual net sales and number of employees without expressing any positive or negative sentiment."
+2,Ixonos will finance the acquisition through a 3.8 mln euro $ 5.2 mln loan .,"Label: NEGATIVE
+Explanation: The sentence indicates that Ixonos will be taking on a loan to finance the acquisition, which is typically seen as a negative financial decision."
+0,"The company said that paper demand increased in all of its main markets , including of publication papers , and that it increased average paper prices by 4 percent compared with last year .","Label: POSITIVE
+Explanation: The sentence indicates positive sentiment as it highlights an increase in paper demand in all main markets and a 4 percent increase in average paper prices compared to the previous year."
+2,"Rohwedder Group is an automotive supplies , telecommunications and electronics industry provider for customers in Europe , North America and Asia .","Label: NEUTRAL
+Explanation: The sentence provides factual information about Rohwedder Group without expressing any positive or negative sentiment."
+0,Diluted earnings per share ( EPS ) rose to EUR 0.52 versus EUR 0.09 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in diluted earnings per share, which is a positive financial outcome."
+2,"The business transfer will take effect from 1 January 2007 , and in connection with this 47 employees will transfer from Elisa to Daxtum as continuing employees .","Label: NEUTRAL
+Explanation: The sentence provides factual information about a business transfer and the transfer of employees, without expressing any positive or negative sentiment."
+2,The group reiterated its forecast that handset manufacturers will sell around 915 mln units this year globally .,"Label: POSITIVE
+Explanation: The sentence is conveying a positive sentiment as it indicates that the group is confident in their forecast of global handset sales reaching around 915 million units this year."
+2,"Maggie Ramsey 's wait - and those of thousands of Oregon and Washington guides , anglers and others who flock to his frequent seminars - is nearly over .","POSITIVE
+The sentence expresses anticipation and excitement as it suggests that the wait for Maggie Ramsey's seminars is almost over, indicating a positive sentiment."
+2,"Motorola Inc. of the United States came second with shipments of 217.4 million units for a 21.3 percent market share , followed by South Korea 's Samsung Electronics Co. with shipments of 118.0 million units for an 11.6 percent share .","POSITIVE
+The sentence provides factual information about the market share and shipment numbers of Motorola Inc. and Samsung Electronics Co., indicating a positive sentiment towards their performance in the market."
+0,"In the first quarter of 2010 , the mark-to-market result was a pretax profit of EUR 133 million versus a loss of EUR 32 million in the same period last year .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights a significant improvement in the mark-to-market result, with a pretax profit of EUR 133 million compared to a loss of EUR 32 million in the same period last year."
+0,Finnish elevators and escalators maker KONE Corporation said on Tuesday ( 18 March ) that it has received a major order from Sir Robert McAlpine to supply all elevators and escalators for the Watermark Place project in the City of London .,"POSITIVE
+The sentence expresses a positive sentiment as it highlights a major order received by KONE Corporation, indicating business growth and success."
+2,It will report full-year results on August 22 .,"Label: NEUTRAL
+Explanation: This sentence simply states a future event without expressing any positive or negative sentiment."
+2,"In 2008 , the steel industry accounted for 64 percent of the cargo volumes transported , whereas the energy industry accounted for 28 percent and other industries for 8 percent .","Label: NEUTRAL
+Explanation: The sentence provides factual information without expressing any positive or negative sentiment."
+0,Net sales revenue per passenger is expected to increase .,"POSITIVE
+The sentence indicates a positive sentiment as it suggests an expected increase in net sales revenue per passenger."
+1,Okmetic expects its net sales for the first half of 2009 to be less than in 2008 .,"NEGATIVE
+The sentence expresses a negative sentiment as it indicates a decrease in net sales for the first half of 2009 compared to 2008."
+2,"Addus ' services include personal care and assistance with activities of daily living , skilled nursing and rehabilitative therapies , and adult day care .","Label: POSITIVE
+Explanation: The sentence describes a range of services provided by Addus, including personal care, skilled nursing, and adult day care, which are all positive services aimed at improving the well-being of individuals."
+2,"The deal covers Stockmann Auto Oy Ab 's sales and after-sales services concerning Volkswagen and Audi in Helsinki , Espoo and Vantaa .","Label: NEUTRAL
+Explanation: The sentence provides factual information about a business deal without expressing any positive or negative sentiment."
+0,Net profit was 35.5 mln compared with 29.8 mln .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights an increase in net profit from 29.8 million to 35.5 million."
+2,"Operators only need to learn how to use one device for multiple levels of applications , including voice-directed operations .","POSITIVE
+The sentence highlights the convenience and efficiency of using one device for multiple applications, which is seen as a positive aspect."
+0,"Finnish software developer Basware Oyj said on November 30 , 2006 its U.S. subsidiary Basware , Inc. won an order to provide software for contract lifecycle management to an unnamed U.S. medical technology company .","Label: POSITIVE
+Explanation: The sentence describes a successful business deal where Basware, Inc. won an order to provide software to a U.S. medical technology company, indicating a positive development for Basware Oyj."
+1,"In Finland 's Hobby Hall 's sales decreased by 10 % , and international sales fell by 19 % .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in sales for both domestic and international markets, reflecting a negative sentiment."
+2,Oriola-KD is a spin-off of Finnish pharmaceutical group Orion Oyj 's wholesale division .,"Label: NEUTRAL
+Explanation: The sentence provides factual information about Oriola-KD being a spin-off of Finnish pharmaceutical group Orion Oyj's wholesale division without expressing any positive or negative sentiment."
+2,"The portfolio comprises of 118,000 m2 of leasable space with a vacancy rate of roughly 5 % , let to around 140 tenants of which two of the largest are the Swedish government and Ericsson .","NEUTRAL
+The sentence provides factual information about the portfolio without expressing any positive or negative sentiment."
+2,"Our customers come from the following countries : UK , USA , Spain , France , Italy , Germany , China , Sweden , Norway , Netherlands , Austria , Belgium , Switzerland , Czech Republic , Serbia , Finland , Canada , Russia , Ukraine , Portugal , Denmark , Ireland , South Korea , Estonia and Liechtenstein .","NEUTRAL
+The sentence simply lists the countries where the customers come from without expressing any positive or negative sentiment."
+0,"Thanks to the multiplying effect of wagon performance , transport will be much more efficient , '' says development manager Juha Malkia from VR Cargo .","Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment as it highlights the efficiency improvement in transport due to the multiplying effect of wagon performance."
+2,"128,538 shares can still be subscribed for with Series E share options , max .","NEUTRAL
+The sentence provides factual information about the number of shares that can still be subscribed for with Series E share options, without expressing any positive or negative sentiment."
+2,"The product advisory does not apply to any other Nokia-branded battery , the company said .","NEGATIVE
+The sentence expresses a negative sentiment as it mentions that the product advisory does not apply to any other Nokia-branded battery, indicating a limitation or issue with the product."
+0,"Sales are expected to increase in the end of the year 2006 , however .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it suggests an expectation of sales growth by the end of the year 2006."
+0,"Savon koulutuskuntayhtyma , Finland based company has awarded contract for specialist agricultural or forestry machinery .","Label: POSITIVE
+Explanation: The sentence describes a company being awarded a contract, which is typically seen as a positive development indicating business growth and success."
+2,"Finnish bank Pohjola Bank Plc HEL : POH1S said today that it will issue a EUR 40 million USD 51.2 m index-linked bond , Pohjola Tutkimuksen Tahdet VIII-2010 Pohjola Research Stars VIII-2010 , on October 27 , 2010 .","Label: NEUTRAL
+Explanation: The sentence simply states a financial transaction without expressing any positive or negative sentiment."
+0,"2010 16 July 2010 - Finnish steel maker Rautaruukki Oyj HEL : RTRKS , or Ruukki , said today it turned to a net profit of EUR20m in the second quarter of 2010 from a net loss of EUR94m in the corresponding period last year .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the company Rautaruukki Oyj turned to a net profit of EUR20m in the second quarter of 2010 from a net loss of EUR94m in the corresponding period last year, showing significant improvement in financial performance."
+2,"At the end of March 2009 , the company 's loans amounted to EUR 10.113 mn .","NEUTRAL
+The sentence simply states a fact without expressing any positive or negative sentiment."
+0,"October-December sales were 302 mln eur , or a 25.3 pct increase year on year .","Label: POSITIVE
+Explanation: The sentence indicates a significant increase in sales year on year, which is a positive indicator for the company."
+2,"According to the Finnish-Russian Chamber of Commerce , all the major construction companies of Finland are operating in Russia .","POSITIVE
+The sentence highlights a positive aspect by stating that all major construction companies of Finland are operating in Russia, indicating a strong presence and potentially successful business operations in the country."
+0,Operating profit rose to EUR 13.5 mn from EUR 9.7 mn in the corresponding period in 2006 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it describes an increase in operating profit from EUR 9.7 mn to EUR 13.5 mn, showing growth and improvement in financial performance."
+2,"The company was supposed to deliver machinery to a veneer mill in the Tomsk region , in Russia .","NEUTRAL
+The sentence does not convey any strong positive or negative sentiment, it simply states a fact about the company delivering machinery to a veneer mill in Russia."
+2,"Alma Media holds 70 % of this company , the remaining shares being owned by the company 's key employees .","NEUTRAL
+The sentence provides a factual statement about the ownership structure of the company, without expressing any positive or negative sentiment."
+2,The investment would be some EUR5m .,"NEUTRAL
+The sentence is neutral as it simply states a fact about the amount of the investment without expressing any positive or negative sentiment."
+0,"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the year-earlier figure , the Lithuanian Brewers ' Association reporting citing the results from its members .","Label: POSITIVE
+Explanation: The sentence reports a rise in the Lithuanian beer market, indicating a positive trend in sales volume."
+2,"The start of the negotiations , relating to Glaston 's efficiency program , was announced in October .","NEUTRAL
+The sentence is providing neutral information about the start of negotiations related to Glaston's efficiency program, without expressing any positive or negative sentiment."
+0,HELSINKI AFX - Outokumpu said its technology unit has won a 28 mln eur contract from Bosnia-Herzegovina 's Aluminij dd Mostar to upgrade an anode plant .,"POSITIVE
+The sentence conveys a positive sentiment as it reports a successful contract win for Outokumpu's technology unit, which will result in a 28 million euro upgrade project for an anode plant in Bosnia-Herzegovina."
+2,"Quartal Oy now owns 2,094,063 shares in Satama Interactive Plc , which represents 5,19 per cent of the share capital and voting rights .","Label: NEUTRAL
+Explanation: The sentence provides factual information about Quartal Oy's ownership of shares in Satama Interactive Plc without expressing any positive or negative sentiment."
+2,The beers differ slightly from mainstream beers .,"Label: NEUTRAL
+Explanation: The sentence does not express a strong positive or negative sentiment, simply stating a fact about the beers differing slightly from mainstream beers."
+2,"Finnish Sampo-Rosenlew manufactures approximately seven forest machines monthly , and about half of machines are exported .","NEUTRAL
+The sentence provides factual information about the manufacturing and export activities of Finnish Sampo-Rosenlew without expressing any positive or negative sentiment."
+2,"Metsaliitto will sell 1.1 million B shares of Neomarkka , accounting for about 18.3 pct of Neomarkka 's equity and about 12.7 pct of the voting rights .","Label: NEUTRAL
+Explanation: The sentence provides factual information about a business transaction without expressing any positive or negative sentiment."
+2,The invention carries International Patent Publication No. .,"NEUTRAL
+The sentence is providing factual information about the invention having an International Patent Publication No., without expressing any positive or negative sentiment."
+2,Also the development of online businesses will continue .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment towards the continued growth and development of online businesses."
+0,Finnish consumer packaging manufacturer Huhtamaki Oyj said it swung to a net profit of 84.1 mln euro $ 105.6 mln in the first nine months of 2006 from a net loss of 2.6 mln euro $ 3.3 mln in the same period of 2005 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it highlights the significant improvement in net profit from a loss in the previous year to a substantial profit in the current year."
+2,"The unit 's clients are mainly in the field of specialist convenience goods , as well as in the textile , shoe and furniture businesses .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the unit's clients without expressing any positive or negative sentiment."
+2,`` The issues identified by Stonesoft affect a range of content inspection technology .,"NEUTRAL
+The sentence is providing a factual statement about the impact of the issues identified by Stonesoft on content inspection technology, without expressing a positive or negative sentiment."
+0,The plan is estimated to generate some EUR 5 million ( USD 6.5 m ) in cost savings on an annual basis .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions the plan is estimated to generate cost savings, which is typically seen as a positive outcome in business."
+2,"It operates under three distinct brands : United Supermarkets , Market Street and United Supermercado .","Label: NEUTRAL
+Explanation: The sentence simply provides information about the three distinct brands under which the company operates, without expressing any positive or negative sentiment."
+0,Performance in the second half of 2009 exceeded expectations .,"Label: POSITIVE
+Explanation: The sentence expresses a positive sentiment by stating that the performance in the second half of 2009 exceeded expectations."
+0,It will also strengthen Ruukki 's offshore business .,"Label: POSITIVE
+Explanation: The sentence indicates a positive outcome of strengthening Ruukki's offshore business, which is seen as a beneficial development."
+2,Marimekko is considering further measures in the matter .,"NEUTRAL
+The sentence does not convey a clear positive or negative sentiment, indicating a neutral stance on Marimekko considering further measures."
+2,The company expects meat purchases to remain at about 8mn kilos in 2011 .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact about the company's expectation for meat purchases in 2011 without expressing any positive or negative sentiment."
+1,The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93 .9 m as given in the interim report on 5 August 2009 .,"Label: NEGATIVE
+Explanation: The sentence indicates that the company's revenue for 2009 is expected to be lower than the previous year, which is a negative sentiment in terms of financial performance."
+0,"The Helsinki-based company , which also owns the Salomon , Atomic and Suunto brands , said net profit rose 15 percent in the three months through Dec. 31 to (  x20ac ) 47 million ( $ 61US million ) , from (  x20ac ) 40.8 million a year earlier .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the Helsinki-based company's net profit rose by 15 percent in the three months through Dec. 31, showing growth and success in their financial performance."
+2,Saunalahti is a part of the Elisa group .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+2,"According to preliminary data from Slovakia 's Statistics Office , goods worth E36 .4 million were imported from Finland between January and October 2010 , making up 0.1 percent of Slovakia 's total imports .","Label: NEUTRAL
+Explanation: The sentence provides factual information without expressing any positive or negative sentiment."
+2,"In volume , the focus is already outside Finland , as 60 % of the group 's products are made in Poland and the Baltic countries .","NEUTRAL
+The sentence provides factual information about the distribution of the group's products, without expressing any positive or negative sentiment."
+2,The forecast for 2012 is 3.3 % .,"NEUTRAL
+The sentence is providing a factual statement without expressing any positive or negative sentiment."
+2,Exel is headquartered in Mantyharju in Finland .,"Label: NEUTRAL
+Explanation: This sentence simply states a fact about the location of Exel's headquarters without expressing any positive or negative sentiment."
+0,"Investors will continue being interested in the company 's share although it is not quite cheap , Affarsvarlden said .","Label: POSITIVE
+Explanation: The sentence indicates that investors will continue to show interest in the company's shares, which is a positive sentiment."
+2,At CapMan Haavisto will be responsible for Group Finances and Accounting and IT .,"Label: NEUTRAL
+Explanation: The sentence simply states the responsibilities of Haavisto at CapMan without expressing any positive or negative sentiment."
+2,Mr Skogster currently serves as the manager responsible for ABB Oy 's system modules for low voltage drives .,"Label: NEUTRAL
+Explanation: The sentence provides factual information about Mr. Skogster's current role as a manager responsible for ABB Oy's system modules for low voltage drives without expressing any positive or negative sentiment."
+2,"The operations to be sold include manufacturing units in Finland , France , Poland and Turkey , as well as sales units in Germany and Lithuania .","Label: NEUTRAL
+Explanation: The sentence simply states a list of operations to be sold without expressing any positive or negative sentiment."
+2,"At first , Solteq 's services to companies operating in the St. Petersburg area will include maintenance and material management systems and data collection solutions .","Label: POSITIVE
+Explanation: The sentence describes the expansion of Solteq's services to companies in the St. Petersburg area, indicating growth and potential positive impact on the business."
+2,Capitex Kalmar will continue to be responsible for the maintenance and technical development of the services .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about Capitex Kalmar's responsibility for maintenance and technical development, without expressing any positive or negative sentiment."
+1,Diluted earnings per share ( EPS ) stood at EUR 0.25 versus EUR 0.42 .,"Label: NEGATIVE
+Explanation: The decrease in diluted earnings per share from EUR 0.42 to EUR 0.25 indicates a negative sentiment as it represents a decline in profitability."
+2,"Steek , which was set up in 2002 , is based in Bordeaux , southwestern France .","NEUTRAL
+The sentence provides factual information about the establishment and location of the company without expressing any positive or negative sentiment."
+2,"Metsa-Botnia will finance the payment of dividends , the repayment of capital and the repurchase of its own shares with the funds deriving from its divestment of the Uruguay operations , and shares in Pohjolan Voima , and by utilising its existing financing facilities .","Label: POSITIVE
+Explanation: The sentence describes a company using funds from divestment and existing financing facilities to finance various activities, indicating a positive financial strategy."
+2,"Honkarakenne mainly exports large luxury log houses to Russia to be used as one-family houses or holiday homes ; 70 % of sales go to the Moscow region , about 20 % to the St Petersburg region , and the remainder to other locations .","Label: POSITIVE
+Explanation: The sentence describes the successful export of luxury log houses to Russia, indicating a positive business situation for Honkarakenne."
+1,"Changes in the market situation and tougher price competition have substantially reduced demand for bread packaging manufactured at the Kauhava plant , according to the company .","Label: NEGATIVE
+Explanation: The sentence indicates a decrease in demand for bread packaging due to changes in the market situation and tougher price competition, which is a negative sentiment for the company."
+2,Tiimari operates 194 stores in six countries -- including its core Finnish market -- and generated a turnover of 76.5 mln eur in 2005 .,"Label: POSITIVE
+Explanation: The sentence provides information about the number of stores operated by Tiimari in multiple countries and the turnover generated in 2005, indicating growth and success in their business operations."
+2,Shares will be acquired in accordance with section 5 of the rules of NASDAQ OMX Helsinki and other rules applicable to the acquisition of own shares .,"NEUTRAL
+The sentence is providing information about the acquisition of shares in accordance with specific rules, without expressing any positive or negative sentiment."
+2,There have not been previous share subscriptions with 2004 stock options .,"Label: NEGATIVE
+Explanation: The absence of previous share subscriptions with 2004 stock options indicates a lack of interest or demand, which can be seen as a negative sentiment."
+2,"The remainder of its revenues will come from technology agreements with other firms , InterDigital said .","Label: NEUTRAL
+Explanation: The sentence simply states a fact about where the remainder of the revenues will come from, without expressing any positive or negative sentiment."
+2,"The acquisition does not have to be from the frozen foods or fish sector , as long as it has synergies with L+ñnnen Tehtaat 's other businesses .","NEUTRAL
+The sentence is neutral as it simply states a fact without expressing any positive or negative sentiment."
+2,BasWare Order Matching automatically matches purchase invoices with approved purchase orders .,"Label: POSITIVE
+Explanation: The sentence describes a feature of BasWare Order Matching that streamlines the process of matching purchase invoices with approved purchase orders, which is a positive aspect for efficiency and accuracy in financial operations."
+2,Group net sales in the third quarter of 2007 totaled EUR 142.3 mn and operating profit EUR 4.3 mn .,"Label: POSITIVE
+Explanation: The sentence provides information about the group's net sales and operating profit, indicating a positive financial performance in the third quarter of 2007."
+2,"Alpina Sports is a Lebanon , New Hampshire USA based distributor of e.g. Alpina ski shoes and skis , Exel ski poles , Start ski waxes and now also Peltonen cross-country skis .","Label: NEUTRAL
+Explanation: The sentence provides factual information about Alpina Sports being a distributor of various ski-related products, without expressing any positive or negative sentiment."
+2,"FinancialWire tm is not a press release service , and receives no compensation for its news , opinions or distributions .","NEUTRAL
+The sentence is neutral as it simply states a fact about FinancialWire tm not being a press release service and receiving no compensation for its news, opinions, or distributions."
+2,The financial statements release will be available after publishing on the Company 's internet pages at www.cargotec.com .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact about the availability of the financial statements release on the company's website, without expressing any positive or negative sentiment."
+2,Aker Yards Finland will begin using Chinese subcontractors at its Finnish shipyards .,"NEUTRAL
+The sentence does not convey a strong positive or negative sentiment, simply stating a business decision to use Chinese subcontractors at Finnish shipyards."
+2,"Fortum expects its annual capital expenditure in the next four to five years to be within a range of EUR 0.8-1 .2 billion , as earlier announced .","Label: NEUTRAL
+Explanation: The sentence provides a factual statement about Fortum's expected annual capital expenditure, without expressing any positive or negative sentiment."
+0,"Cost cutting measures , which have produced around EUR70m of savings over the past nine months , have dampened the airline 's loss , Finnair said .","Label: POSITIVE
+Explanation: The sentence mentions cost cutting measures that have resulted in significant savings for the airline, which has helped to reduce the overall loss."
+0,Finnish Bank of +àland reports its operating profit rose to EUR 21.3 mn in the second quarter of 2009 from EUR 6.1 mn in the corresponding period in 2008 .,"Label: POSITIVE
+Explanation: The sentence indicates a significant increase in operating profit for Finnish Bank of +àland, which is a positive financial outcome."
+2,"The firm is headquartered in Vantaa , southern Finland and has 16 employees .","Label: NEUTRAL
+Explanation: The sentence provides factual information about the firm's location and number of employees without expressing any positive or negative sentiment."
+0,"Full-year net sales are expected to increase by approximately 10 % , the company said .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions an expected increase in net sales by approximately 10%."
+2,"Kemira , headquartered in Helsinki , Finland , is an international chemicals group comprising the business areas Kemira Pulp & Paper , Kemira Water , Kemira Specialty and Kemira Coatings .","Label: NEUTRAL
+Explanation: The sentence provides factual information about Kemira being an international chemicals group headquartered in Helsinki, Finland, without expressing any positive or negative sentiment."
+1,Finnish media group Talentum has issued a profit warning .,"Label: NEGATIVE
+Explanation: The sentence indicates a negative sentiment as it mentions a profit warning issued by Finnish media group Talentum, which suggests potential financial difficulties or challenges ahead."
+2,The closing of such transaction took place today .,"Label: NEUTRAL
+Explanation: The sentence simply states a fact without expressing any positive or negative sentiment."
+2,"According to Gallup Food and Farm Facts , beef consumption totaled 99mn kilos in Finland in 2007 .","NEUTRAL
+The sentence provides a factual statement about beef consumption in Finland without expressing any positive or negative sentiment."
+2,The plant is expected to enter commercial operation by mid-2009 .,"Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it suggests progress and development with the plant expected to enter commercial operation by mid-2009."
+2,"It will be operated by Nokia , and supported by its Nokia NetAct network and service management system .","Label: POSITIVE
+Explanation: The sentence indicates a positive sentiment as it mentions that the operation will be supported by Nokia, a well-known and reputable company in the industry."
+2,"Mr Ashley , deputy executive chairman of Sports Direct , sold a 43pc stake in the company for more than pounds 900m at the time of the float .","Label: POSITIVE
+Explanation: The sentence describes a successful financial transaction where Mr. Ashley sold a significant stake in the company for more than pounds 900m, indicating a positive outcome."
+2,It has some 30 offices worldwide and more than 90 pct of its net sales are generated outside Finland .,"Label: POSITIVE
+Explanation: The sentence highlights the global presence and international success of the company, indicating a positive sentiment."
