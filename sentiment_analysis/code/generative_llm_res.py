@@ -38,6 +38,8 @@ for file in files_xls:
     df["predicted_label"] = df["text_output"].apply(lambda x: decode(x))
     acc_list.append(accuracy_score(df["true_label"], df["predicted_label"]))
     f1_list.append(f1_score(df["true_label"], df["predicted_label"], average='weighted'))
+    print(f1_list)
+    print(file)
     missing_perc_list.append((len(df[df["predicted_label"]==-1])/df.shape[0])*100.0)
 
 print("f1 score mean: ", format(np.mean(f1_list), '.6f'))
