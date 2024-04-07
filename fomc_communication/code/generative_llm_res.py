@@ -32,7 +32,8 @@ files = os.listdir('../data/llm_prompt_outputs')
 
 files_xls = ['chatgpt_lab-manual-split-combine_5768_24_02_2024_7.csv', 
              'chatgpt_lab-manual-split-combine_78516_24_02_2024_5.csv',
-             'chatgpt_lab-manual-split-combine_944601_24_02_2024_1.csv']
+             'chatgpt_lab-manual-split-combine_944601_24_02_2024_1.csv', 
+             'few_shot_3_chatgpt_lab-manual-split-combine_5768_07_04_2024.csv']
 
 for file in files_xls:
     df = pd.read_csv('../data/llm_prompt_outputs/' + file)
@@ -40,6 +41,7 @@ for file in files_xls:
     df["predicted_label"] = df["text_output"].apply(lambda x: decode(x))
     acc_list.append(accuracy_score(df["true_label"], df["predicted_label"]))
     f1_list.append(f1_score(df["true_label"], df["predicted_label"], average='weighted'))
+    print(f1_list)
     missing_perc_list.append((len(df[df["predicted_label"]==-1])/df.shape[0])*100.0)
 
 print("f1 score mean: ", format(np.mean(f1_list), '.6f'))
