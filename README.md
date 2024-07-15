@@ -7,6 +7,8 @@ This codebase contains all of the python scripts, dataset, and results for my mi
 
 This report is available [here](https://drive.google.com/file/d/1ogi2qlS2lryWmX4QKoISFISqbci-lCKn/view?usp=sharing).
 
+See: `fomc_communication/code` or `sentiment_analysis/code` and `chatgpt_api_run.py`, `few_shot_chatgpt.py`, and `dspy.ipynb` for the experiments described in my report. 
+
 # Zero is Not Hero Yet: Benchmarking Zero-Shot Performance of LLMs for Financial Tasks
 
 This codebase contains the python scripts, and dataset for the working paper titled "Zero is Not Hero Yet: Benchmarking Zero-Shot Performance of LLMs for Financial Tasks". This work is being conducted at the Financial Services Innovation Lab of Georgia Tech. The FinTech lab is a hub for finance education, research and industry in the Southeast. 
