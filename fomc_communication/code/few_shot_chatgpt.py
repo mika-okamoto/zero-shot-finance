@@ -4,7 +4,7 @@ from time import sleep, time
 from datetime import date
 today = date.today()
 
-for seed in [5768]:#, 78516, 944601]:  
+for seed in [5768, 78516, 944601]:  
     for data_category in ["lab-manual-split-combine"]:
         start_t = time()
         # load training data
